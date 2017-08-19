@@ -61,3 +61,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/RatUtils/nbproject/private/
+/RatUtils/dist/
+/RatUtils/build/
