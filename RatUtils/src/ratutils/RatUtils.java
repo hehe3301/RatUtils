@@ -11,13 +11,17 @@ import javafx.application.Platform;
 import javafx.embed.swing.JFXPanel;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
-import javafx.scene.Scene;
 import javafx.scene.control.Button;
-import javafx.scene.layout.StackPane;
 import javax.swing.JApplet;
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
+import javafx.scene.Scene;
+import javafx.scene.control.*;
+import javafx.scene.layout.StackPane;
+
 
 /**
  *
@@ -84,8 +88,19 @@ public class RatUtils extends JApplet {
                 System.out.println("Hello World!");
             }
         });
+        Button btn2 = new Button();
+        btn2.setText("Say 'FOO'");
+        btn2.setOnAction(new EventHandler<ActionEvent>() {
+            
+            @Override
+            public void handle(ActionEvent event) {
+                System.out.println("FOO");
+            }
+        });
+        
         StackPane root = new StackPane();
         root.getChildren().add(btn);
+        root.getChildren().add(btn2);
         fxContainer.setScene(new Scene(root));
     }
     
