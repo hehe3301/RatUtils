@@ -11,13 +11,13 @@ public class IrcConnection {
         {
         
 			// The server to connect to and our details.
-			String server = "irc.esper.net"; //Server to connect to
+			String server = "irc.fuelrats.com"; //Server to connect to
 			String nick = "Belmurtoc[BETA_CLIENT]2"; //Nickname that will be used on the server
 			String login = "Belmurtoc";
-			String boss = "hehe";
+			String boss = "Belmurtoc[PC]";
 
 			// The channel which the bot will join.
-			String channel = "#murtoc_bot_testing";
+			String channel = "#fuelrats";
 			
 			// Connect directly to the IRC server.
 			Socket socket = new Socket(server, 6667);
@@ -68,6 +68,7 @@ public class IrcConnection {
 			// Keep reading lines from the server.
 			while ((line = reader.readLine( )) != null) 
 			{
+
 				if (line.contains("PING ")) 
 				{
 					// We must respond to PINGs to avoid being disconnected.
