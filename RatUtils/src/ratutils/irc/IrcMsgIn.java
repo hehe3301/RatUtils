@@ -14,6 +14,16 @@ public class IrcMsgIn {
         this.message=message;
     }
 
+    @Override
+    public String toString() {
+        return "IrcMsgIn{" +
+                "time='" + time + '\'' +
+                ", user='" + user + '\'' +
+                ", channel='" + channel + '\'' +
+                ", message='" + message + '\'' +
+                '}';
+    }
+
     public String getTime() {
         return time;
     }
