@@ -65,3 +65,4 @@ $RECYCLE.BIN/
 /RatUtils/dist/
 /RatUtils/build/
 .idea\*
+.idea/uiDesigner.xml
