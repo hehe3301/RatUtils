@@ -3,7 +3,7 @@ package ratutils;
 import java.io.*;
 import java.net.*;
 
-public class IrcConnection {
+public class TestIrc {
 
     public static void foo(String[] args)
 	{
@@ -21,10 +21,8 @@ public class IrcConnection {
 			
 			// Connect directly to the IRC server.
 			Socket socket = new Socket(server, 6667);
-			BufferedWriter writer = new BufferedWriter(
-					new OutputStreamWriter(socket.getOutputStream( )));
-			BufferedReader reader = new BufferedReader(
-					new InputStreamReader(socket.getInputStream( )));
+			BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream( )));
+			BufferedReader reader = new BufferedReader(new InputStreamReader(socket.getInputStream( )));
 			
 			// Log on to the server.
 			writer.write("NICK " + nick + "\r\n");
