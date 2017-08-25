@@ -11,7 +11,7 @@ public class IrcConnection {
         {
         
 			// The server to connect to and our details.
-			String server = "irc.fuelrats.com"; //Server to connect to
+			String server = "irc.esper.com"; //Server to connect to
 			String nick = "Belmurtoc[BETA_CLIENT]2"; //Nickname that will be used on the server
 			String login = "Belmurtoc";
 			String boss = "Belmurtoc[PC]";
