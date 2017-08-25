@@ -64,3 +64,7 @@ $RECYCLE.BIN/
 /RatUtils/nbproject/private/
 /RatUtils/dist/
 /RatUtils/build/
+.idea\*
+.idea/uiDesigner.xml
+.idea/workspace.xml
+.idea/workspace.xml

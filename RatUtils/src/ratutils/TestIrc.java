@@ -3,16 +3,16 @@ package ratutils;
 import java.io.*;
 import java.net.*;
 
-public class IrcConnection {
+public class TestIrc {
 
-    public static void main(String[] args)
+    public static void foo(String[] args)
 	{
         try
         {
         
 			// The server to connect to and our details.
-			String server = "irc.esper.com"; //Server to connect to
-			String nick = "Belmurtoc[BETA_CLIENT]2"; //Nickname that will be used on the server
+			String server = "irc.fuelrats.com"; //Server to connect to
+			String nick = "Belmurtoc[BETA_CLIENT]"; //Nickname that will be used on the server
 			String login = "Belmurtoc";
 			String boss = "Belmurtoc[PC]";
 
@@ -21,10 +21,8 @@ public class IrcConnection {
 			
 			// Connect directly to the IRC server.
 			Socket socket = new Socket(server, 6667);
-			BufferedWriter writer = new BufferedWriter(
-					new OutputStreamWriter(socket.getOutputStream( )));
-			BufferedReader reader = new BufferedReader(
-					new InputStreamReader(socket.getInputStream( )));
+			BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream( )));
+			BufferedReader reader = new BufferedReader(new InputStreamReader(socket.getInputStream( )));
 			
 			// Log on to the server.
 			writer.write("NICK " + nick + "\r\n");
@@ -68,12 +66,11 @@ public class IrcConnection {
 			// Keep reading lines from the server.
 			while ((line = reader.readLine( )) != null) 
 			{
-
 				if (line.contains("PING ")) 
 				{
 					// We must respond to PINGs to avoid being disconnected.
 					writer.write("PONG " + line.substring(5) + "\r\n");
-					writer.write("PRIVMSG " + channel + " :I got pinged!\r\n");
+					writer.write("PRIVMSG " + boss + " :I got pinged!\r\n");
 					writer.flush( );
 				}
 				//:Belmurtoc[PC]!uid43090@belmurtoc.recruit.fuelrats.com PRIVMSG Belmurtoc[BOT] :QUIT
