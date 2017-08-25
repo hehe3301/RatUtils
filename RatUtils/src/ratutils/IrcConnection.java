@@ -5,7 +5,7 @@ import java.net.*;
 
 public class IrcConnection {
 
-    public static void main(String[] args)
+    public static void foo(String[] args)
 	{
         try
         {
@@ -68,7 +68,6 @@ public class IrcConnection {
 			// Keep reading lines from the server.
 			while ((line = reader.readLine( )) != null) 
 			{
-                System.out.println(line);
 				if (line.contains("PING ")) 
 				{
 					// We must respond to PINGs to avoid being disconnected.
