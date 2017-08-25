@@ -35,7 +35,7 @@ public class Case
         this.sysconf = false; //System confirmed status
         this.wr = false; //Wing Request
         this.bc = false; //Rat to report if bacon is toasty
-        this.prep = false; //Prep status
+        this.prep = true; //Prep status
         this.sys = false; //Rat to report if in system
         this.inst = false; //Rat to report if in instance with client
         this.completed = false; // has the case been completed

@@ -1,0 +1,1249 @@
+:irc.us.fuelrats.com NOTICE * :*** Looking up your hostname...
+:irc.us.fuelrats.com NOTICE * :*** Found your hostname (cached)
+PING :C9443289
+HEY MASTER I GOT A PING
+:irc.us.fuelrats.com 001 Belmurtoc[BETA_CLIENT] :Welcome to the FuelRats IRC Network Belmurtoc[BETA_CLIENT]!Belmurtoc@cpe-45-47-151-78.nycap.res.rr.com
+Server sent: :irc.us.fuelrats.com 001 Belmurtoc[BETA_CLIENT] :Welcome to the FuelRats IRC Network Belmurtoc[BETA_CLIENT]!Belmurtoc@cpe-45-47-151-78.nycap.res.rr.com
+:irc.us.fuelrats.com 002 Belmurtoc[BETA_CLIENT] :Your host is irc.us.fuelrats.com, running version UnrealIRCd-4.0.11
+Server sent: :irc.us.fuelrats.com 002 Belmurtoc[BETA_CLIENT] :Your host is irc.us.fuelrats.com, running version UnrealIRCd-4.0.11
+:irc.us.fuelrats.com 003 Belmurtoc[BETA_CLIENT] :This server was created Tue Apr 11 2017 at 09:04:50 UTC
+Server sent: :irc.us.fuelrats.com 003 Belmurtoc[BETA_CLIENT] :This server was created Tue Apr 11 2017 at 09:04:50 UTC
+:irc.us.fuelrats.com 004 Belmurtoc[BETA_CLIENT] irc.us.fuelrats.com UnrealIRCd-4.0.11 iowrsxzdHtIDRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+Server sent: :irc.us.fuelrats.com 004 Belmurtoc[BETA_CLIENT] irc.us.fuelrats.com UnrealIRCd-4.0.11 iowrsxzdHtIDRqpWGTSB lvhopsmntikraqbeIzMQNRTOVKDdGLPZSCcf
+:irc.us.fuelrats.com 005 Belmurtoc[BETA_CLIENT] CMDS=USERIP,STARTTLS,KNOCK,DCCALLOW,MAP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 :are supported by this server
+Server sent: :irc.us.fuelrats.com 005 Belmurtoc[BETA_CLIENT] CMDS=USERIP,STARTTLS,KNOCK,DCCALLOW,MAP UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:60,e:60,I:60 MAXNICKLEN=30 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 :are supported by this server
+:irc.us.fuelrats.com 005 Belmurtoc[BETA_CLIENT] AWAYLEN=307 MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc NETWORK=FuelRats CASEMAPPING=ascii EXTBAN=~,SOcaRrnqjT :are supported by this server
+Server sent: :irc.us.fuelrats.com 005 Belmurtoc[BETA_CLIENT] AWAYLEN=307 MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kLf,l,psmntirzMQNRTOVKDdGPZSCc NETWORK=FuelRats CASEMAPPING=ascii EXTBAN=~,SOcaRrnqjT :are supported by this server
+:irc.us.fuelrats.com 005 Belmurtoc[BETA_CLIENT] ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+Server sent: :irc.us.fuelrats.com 005 Belmurtoc[BETA_CLIENT] ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+:irc.us.fuelrats.com 396 Belmurtoc[BETA_CLIENT] Clk-B2345FD8.nycap.res.rr.com :is now your displayed host
+Server sent: :irc.us.fuelrats.com 396 Belmurtoc[BETA_CLIENT] Clk-B2345FD8.nycap.res.rr.com :is now your displayed host
+:irc.us.fuelrats.com 251 Belmurtoc[BETA_CLIENT] :There are 1 users and 167 invisible on 3 servers
+Server sent: :irc.us.fuelrats.com 251 Belmurtoc[BETA_CLIENT] :There are 1 users and 167 invisible on 3 servers
+:irc.us.fuelrats.com 252 Belmurtoc[BETA_CLIENT] 27 :operator(s) online
+Server sent: :irc.us.fuelrats.com 252 Belmurtoc[BETA_CLIENT] 27 :operator(s) online
+:irc.us.fuelrats.com 254 Belmurtoc[BETA_CLIENT] 31 :channels formed
+Server sent: :irc.us.fuelrats.com 254 Belmurtoc[BETA_CLIENT] 31 :channels formed
+:irc.us.fuelrats.com 255 Belmurtoc[BETA_CLIENT] :I have 69 clients and 1 servers
+Server sent: :irc.us.fuelrats.com 255 Belmurtoc[BETA_CLIENT] :I have 69 clients and 1 servers
+:irc.us.fuelrats.com 265 Belmurtoc[BETA_CLIENT] 69 101 :Current local users 69, max 101
+Server sent: :irc.us.fuelrats.com 265 Belmurtoc[BETA_CLIENT] 69 101 :Current local users 69, max 101
+:irc.us.fuelrats.com 266 Belmurtoc[BETA_CLIENT] 168 211 :Current global users 168, max 211
+Server sent: :irc.us.fuelrats.com 266 Belmurtoc[BETA_CLIENT] 168 211 :Current global users 168, max 211
+:irc.us.fuelrats.com 375 Belmurtoc[BETA_CLIENT] :- irc.us.fuelrats.com Message of the Day -
+Server sent: :irc.us.fuelrats.com 375 Belmurtoc[BETA_CLIENT] :- irc.us.fuelrats.com Message of the Day -
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- 21/1/2017 10:39
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- 21/1/2017 10:39
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- Welcome to the Fuel Rats IRC Server
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- Welcome to the Fuel Rats IRC Server
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                                     `.::oosdddddNMMddddddsoo::``
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                                     `.::oosdddddNMMddddddsoo::``
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                               `./shdNmNhhs++-oh:dddso/oo++oyymmNdyo/.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                               `./shdNmNhhs++-oh:dddso/oo++oyymmNdyo/.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                           `-ohNmdyhmdmmsyM-  NNsMMMMM:Mm     -yyyyydNmho-`
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                           `-ohNmdyhmdmmsyM-  NNsMMMMM:Mm     -yyyyydNmho-`
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                        .+hNNdddh. oMNdNhdMh+oMNsMMMMMmMN+/-  dMmhdNs`/ohNNy/.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                        .+hNNdddh. oMNdNhdMh+oMNsMMMMMmMN+/-  dMmhdNs`/ohNNy/.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                     .+dNmdomNMMMo .NM/``.sddydyydddddddddds`/NhhmMM+:smmdoymNh/.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                     .+dNmdomNMMMo .NM/``.sddydyydddddddddds`/NhhmMM+:smmdoymNh/.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                  `:hNdo-dNydMMNmmo.+yshmmdhyyooooooooosyyddmdms++dmmNMmdM-oNddmNs:
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                  `:hNdo-dNydMMNmmo.+yshmmdhyyooooooooosyyddmdms++dmmNMmdM-oNddmNs:
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                `omNdhh/oNNMmhdhyhmmhy+:-.``              ``.-+sydmmdo/+mM-.hMNmddNh/`
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                `omNdhh/oNNMmhdhyhmmhy+:-.``              ``.-+sydmmdo/+mM-.hMNmddNh/`
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-              `ommddNdmMN/.+yymmdo/.`                            `./sdmhsy-yMh./dyhdNmo`
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-              `ommddNdmMN/.+yymmdo/.`                            `./sdmhsy-yMh./dyhdNmo`
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-            `+mmdmmMy..yd/sdmh/.`                                    `.ohmds+`-hMMMNddNm:
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-            `+mmdmmMy..yd/sdmh/.`                                    `.ohmds+`-hMMMNddNm:
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-           :dNh-ss-yNd./mNd/.                                           `.sdNssmMMMMm/-hNh.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-           :dNh-ss-yNd./mNd/.                                           `.sdNssmMMMMm/-hNh.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-         `oNm:`.`  `:sdNs-` `-:-`                                     -:-. `/dNmhhmh-  `+Nm+
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-         `oNm:`.`  `:sdNs-` `-:-`                                     -:-. `/dNmhhmh-  `+Nm+
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-        -dMy. :md `/dNs-   -dNMNd/                ```               -yNMNm/  `/dNh:  :dy -hNs`
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-        -dMy. :md `/dNs-   -dNMNd/                ```               -yNMNm/  `/dNh:  :dy -hNs`
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-       -mN+   `--.yNh-    `dMMMMMMy-   `--:/+yyyyhdddhyyys//--``  `+NMMMMMN.   `/dms``//  `oMh-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-       -mN+   `--.yNh-    `dMMMMMMy-   `--:/+yyyyhdddhyyys//--``  `+NMMMMMN.   `/dms``//  `oMh-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-      /NN/      /Nm/`     .MMmhNMMMNhyhmNNMMMMMMMMMMMMMMMMMMNNmdyydMMMMddMM.     `sNd.      +Nm-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-      /NN/      /Nm/`     .MMmhNMMMNhyhmNNMMMMMMMMMMMMMMMMMMNNmdyydMMMMddMM.     `sNd.      +Nm-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-     /NN:--`  `sMd-       .MM: /NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo``dM.       :mN:     `+Nm-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-     /NN:--`  `sMd-       .MM: /NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo``dM.       :mN:     `+Nm-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-    -NN/dmdds`sMy`         hM-  oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd  `mN.        .mM+ .+sds/Mm.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-    -NN/dmdds`sMy`         hM-  oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd  `mN.        .mM+ .+sds/Mm.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-   .mN/dM./NysMh`          /Mo  dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. :Ms          .mM+sMhMs.sMy
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-   .mN/dM./NysMh`          /Mo  dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. :Ms          .mM+sMhMs.sMy
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-   sMs-mmsNyyMh`           `ym`+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd`dm`           .mN/dmMNm/dM/
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-   sMs-mmsNyyMh`           `ym`+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd`dm`           .mN/dmMNm/dM/
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-  -Mm:NhhMm:Nm`             `domMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMhN:             -NN:mMNmy+Nm.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-  -Mm:NhhMm:Nm`             `domMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMhN:             -NN:mMNmy+Nm.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-  hM+hM./ModN-               .sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN:               +My:+::NyyMs
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-  hM+hM./ModN-               .sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN:               +My:+::NyyMs
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- -Mm.ymNNd+My                 yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN                `dM.-oymh-Nm`
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- -Mm.ymNNd+My                 yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN                `dM.-oymh-Nm`
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- oMssNNNm:mM-                 mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                /Ms+Mh:. dM/
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- oMssNNNm:mM-                 mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                /Ms+Mh:. dM/
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- dM+dh  -`Md                  mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                .mN.Mmdds+Mo
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- dM+dh  -`Md                  mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                .mN.Mmdds+Mo
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- MN:Mmyy:oMo                 `NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                 dM`Md.../My
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- MN:Mmyy:oMo                 `NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                 dM`Md.../My
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- Mm-Mo::.sM/                 /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                 dM`sMNNNoMM
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- Mm-Mo::.sM/                 /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                 dM`sMNNNoMM
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- Mm-M:   sM/                 -NMMMMMMMMmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                 sMo.+dMh+MM
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- Mm-M:   sM/                 -NMMMMMMMMmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/                 sMo.+dMh+MM
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- Mm.NNNMosM/                  mMMMMMMMh/dMMMMMMMMMMMMMMMMMMMMm/dMMMMMMMM-                 dM`oMNys+MM
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- Mm.NNNMosM/                  mMMMMMMMh/dMMMMMMMMMMMMMMMMMMMMm/dMMMMMMMM-                 dM`oMNys+MM
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- MN:M+ NhoMo                  +MMMMMM+  `hMMMMMMMMMMMMMMMMMMd.  oMMMMMMh                  dM`dMMNy+My
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- MN:M+ NhoMo                  +MMMMMM+  `hMMMMMMMMMMMMMMMMMMd.  oMMMMMMh                  dM`dMMNy+My
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- dM+mNmMd`Md                   sMMMMM/    oMMMMMMMMMMMMMMMMh`   -MMMMMd`                 .mN`.:+Mh+Mo
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- dM+mNmMd`Md                   sMMMMM/    oMMMMMMMMMMMMMMMMh`   -MMMMMd`                 .mN`.:+Mh+Mo
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- oMs-dNNN/mN-                   oMMMMMo-`  oNMMMMMMMMMMMMMs`  ./mMMMMy`                  /Ms+y+sM/dM-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- oMs-dNNN/mN-                   oMMMMMo-`  oNMMMMMMMMMMMMMs`  ./mMMMMy`                  /Ms+y+sM/dM-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- `Mm/Ms`Nd/My                    :mMMMMNNdhydMMMMMMMMMMMMdshhdNMMMMN+`                  `dM:hdMms:Nm`
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- `Mm/Ms`Nd/My                    :mMMMMNNdhydMMMMMMMMMMMMdshhdNMMMMN+`                  `dM:hdMms:Nm`
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-  hModN+dd`dN-             `:`    `oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy-     --             +MysNMNM:yM+
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-  hModN+dd`dN-             `:`    `oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy-     --             +MysNMNM:yM+
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-  -Mm/hhyo/:Nd`             :syo:`  -yMMMMMMMMMMMMMMMMMMMMMMMMMMm:   ./os/.            -NN/NNMmm/Nm`
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-  -Mm/hhyo/:Nd`             :syo:`  -yMMMMMMMMMMMMMMMMMMMMMMMMMMm:   ./os/.            -NN/NNMmm/Nm`
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-   sMy/hMhMosMy               `:shy+:.omMMMMMMMMMMMMMMMMMMMMMMMo.:+sys/`              `mN/-+shd/dM/
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-   sMy/hMhMosMy               `:shy+:.omMMMMMMMMMMMMMMMMMMMMMMMo.:+sys/`              `mN/-+shd/dM/
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-   .mM+/MNy:/sMo             .-.`..oyhdmMMMMMMMMMMMMMMMMMMMMMMNhdyo:.``-.            `hM+sNdNdssMy
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-   .mM+/MNy:/sMo             .-.`..oyhdmMMMMMMMMMMMMMMMMMMMMMMNhdyo:.``-.            `hM+sNdNdssMy
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-    -mN/mdmNNsyMs`           `-+osshsysmMMMMMMMMMMMMMMMMMMMMMMmyyoysoo/-.           .dM+`omNM.oMd`
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-    -mN/mdmNNsyMs`           `-+osshsysmMMMMMMMMMMMMMMMMMMMMMMmyyoysoo/-.           .dM+`omNM.oMd`
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-     :NN/+hNdMssMy.               .-:osdMMMMMMMMMMMMMMMMMMMMMMmho/-.               :mN+omdyNN/Nm-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-     :NN/+hNdMssMy.               .-:osdMMMMMMMMMMMMMMMMMMMMMMmho/-.               :mN+omdyNN/Nm-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-      /NN//MNMNh+Nm/`         .++++++ohdMMMMMMMMMMMMMMMMMMMMMMmhhyy+++++.        `+Nd/hMhMhdhNm-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-      /NN//MNMNh+Nm/`         .++++++ohdMMMMMMMMMMMMMMMMMMMMMMmhhyy+++++.        `+Nd/hMhMhdhNm-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-       -mNoyNMMMmsdNy-         ```````--:sMMMMMMMMMMMMMMMMMMh:---.``````        -dNs+dMNMm-yMh.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-       -mNoyNMMMmsdNy-         ```````--:sMMMMMMMMMMMMMMMMMMh:---.``````        -dNs+dMNMm-yMh.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-        -dMhoNMNmo./dNs-                  /dMMMMMMMMMMMMMMNo`                 -sNdohNMNmhymNs`
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-        -dMhoNMNmo./dNs-                  /dMMMMMMMMMMMMMMNo`                 -sNdohNMNmhymNs`
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-         `oNmsy/`-yho+dNs.                 `+NMMMMMMMMMMNs.                `/sNdsommMMNmhNm+
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-         `oNmsy/`-yho+dNs.                 `+NMMMMMMMMMMNs.                `/sNdsommMMNmhNm+
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-           :hNh-/Nm/hmo/dmh/.                .dMMMMMMMMN:                ./dNdshNMMmmhsdNh.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-           :hNh-/Nm/hmo/dmh/.                .dMMMMMMMMN:                ./dNdshNMMmmhsdNh.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-            `+mNddNhyMMhyyhmmy:`              -dNNNNNNm:              ./hmdsodmNMMMdsyNh:
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-            `+mNddNhyMMhyyhmmy:`              -dNNNNNNm:              ./hmdsodmNMMMdsyNh:
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-              `omNdyydMm+dNyoymmho-``           .-----`          `.-ohmmyo. .dNmdmshNh:
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-              `omNdyydMm+dNyoymmho-``           .-----`          `.-ohmmyo. .dNmdmshNh:
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                `omNyyhmyyhmNddhyhmdds+--``                ``-:+yhmmyo/ +Md-ohdyodNh:
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                `omNyyhmyyhmNddhyhmdds+--``                ``-:+yhmmyo/ +Md-ohdyodNh:
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                   :hNdhyshMd:/mm`:sssydNddyyooooooooooosyyddmdhso/`dNMo :mmhyymNo:
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                   :hNdhyshMd:/mm`:sssydNddyyooooooooooosyyddmdhso/`dNMo :mmhyymNo:
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                     .+dNdhyhmmmodNhMo.ossso+sooooooooso+osssyhNNMNhNMhN:.+ymNh/.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                     .+dNdhyhmmmodNhMo.ossso+sooooooooso+osssyhNNMNhNMhN:.+ymNh/.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                        ./hNmho+dssmMysMMMMNNMsdyyhdhmNm-hMMMMMNmMhoh+/ddNms/.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                        ./hNmho+dssmMysMMMMNNMsdyyhdhmNm-hMMMMMNmMhoh+/ddNms/.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                           `-ohmNdyoysymmmMhmNMM/.+MMMydNNMsMddhyhdhdNms/-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                           `-ohmNdyoysymmmMhmNMM/.+MMMydNNMsMddhyhdhdNms/-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                                ./oydNNmddysds+dddddoho-hdhyddmNmdyo:.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                                ./oydNNmddysds+dddddoho-hdhyddmNmdyo:.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                                     ``::+oohddddddddddddsoo+:-`
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                                     ``::+oohddddddddddddsoo+:-`
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                              COLLOCARE      OCCASIONEM      LIBERABUNTUA
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-                              COLLOCARE      OCCASIONEM      LIBERABUNTUA
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- This server is dedicated to Fuel Rats operations, and is not for general
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- This server is dedicated to Fuel Rats operations, and is not for general
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- use. For general chatting, please join one of the public IRC networks.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- use. For general chatting, please join one of the public IRC networks.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- You must be 13 years or older to connect here. Illegal activities, such as
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- You must be 13 years or older to connect here. Illegal activities, such as
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- file sharing, is forbidden.
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- file sharing, is forbidden.
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- For further information on our rules, see our Terms of Service and Code of Conduct:
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- For further information on our rules, see our Terms of Service and Code of Conduct:
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-         Terms of Service: https://www.fuelrats.com/tos/
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-         Terms of Service: https://www.fuelrats.com/tos/
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-         Code of Conduct: https://www.fuelrats.com/channel-code-of-conduct/
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-         Code of Conduct: https://www.fuelrats.com/channel-code-of-conduct/
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- Technical Staff:
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :- Technical Staff:
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-         Absolver        Adanaran        Marenthyu       NoLifeKing
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-         Absolver        Adanaran        Marenthyu       NoLifeKing
+:irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-         Orange_Sheets   Trezy           Xlexious        Clapton
+Server sent: :irc.us.fuelrats.com 372 Belmurtoc[BETA_CLIENT] :-         Orange_Sheets   Trezy           Xlexious        Clapton
+:irc.us.fuelrats.com 376 Belmurtoc[BETA_CLIENT] :End of /MOTD command.
+Server sent: :irc.us.fuelrats.com 376 Belmurtoc[BETA_CLIENT] :End of /MOTD command.
+:Belmurtoc[BETA_CLIENT] MODE Belmurtoc[BETA_CLIENT] :+iwx
+Server sent: :Belmurtoc[BETA_CLIENT] MODE Belmurtoc[BETA_CLIENT] :+iwx
+:Belmurtoc[BETA_CLIENT]!Belmurtoc@Clk-B2345FD8.nycap.res.rr.com JOIN :#fuelrats
+Server sent: :Belmurtoc[BETA_CLIENT]!Belmurtoc@Clk-B2345FD8.nycap.res.rr.com JOIN :#fuelrats
+:irc.us.fuelrats.com 332 Belmurtoc[BETA_CLIENT] #fuelrats :Need Fuel? type 'Ratsignal, your in-game location, PC/Xbox/PS4' Do NOT accept unsolicited friend requests
+Server sent: :irc.us.fuelrats.com 332 Belmurtoc[BETA_CLIENT] #fuelrats :Need Fuel? type 'Ratsignal, your in-game location, PC/Xbox/PS4' Do NOT accept unsolicited friend requests
+:irc.us.fuelrats.com 333 Belmurtoc[BETA_CLIENT] #fuelrats CrunchyBaton955 1498149900
+Server sent: :irc.us.fuelrats.com 333 Belmurtoc[BETA_CLIENT] #fuelrats CrunchyBaton955 1498149900
+:irc.us.fuelrats.com 353 Belmurtoc[BETA_CLIENT] = #fuelrats :Belmurtoc[BETA_CLIENT] +Lavo[PC] Saggy_Tick_inc[XBNeedDrill] +Lord_Hotwheels[Rosette] NETWizz +SadowsReturn[XB] Cider_Barrel +Primal_Muffin[PC] +Vin_Ikra +icaruslived[PC] +Seamus_Donohue +SliFox115-PS4 legendarylol Aces[ND][PS4] StudiousDewsh[OFFDUTY] +Grimdokku +BottleBotleBinks[PS4] +Malthbern[PC] +TankHosting Belmurtoc[PC] Jak_o_Ombroj|Observing +Fermmoylle[PS4] +d3phoenix[PC] +waterlubber[PC] @_Ravenov
+Server sent: :irc.us.fuelrats.com 353 Belmurtoc[BETA_CLIENT] = #fuelrats :Belmurtoc[BETA_CLIENT] +Lavo[PC] Saggy_Tick_inc[XBNeedDrill] +Lord_Hotwheels[Rosette] NETWizz +SadowsReturn[XB] Cider_Barrel +Primal_Muffin[PC] +Vin_Ikra +icaruslived[PC] +Seamus_Donohue +SliFox115-PS4 legendarylol Aces[ND][PS4] StudiousDewsh[OFFDUTY] +Grimdokku +BottleBotleBinks[PS4] +Malthbern[PC] +TankHosting Belmurtoc[PC] Jak_o_Ombroj|Observing +Fermmoylle[PS4] +d3phoenix[PC] +waterlubber[PC] @_Ravenov
+:irc.us.fuelrats.com 353 Belmurtoc[BETA_CLIENT] = #fuelrats :+Highwaywarrior +ChefTig[PC] +jerryclark[PC] +Holmes10[PC] Kelazeth +Valkyrien_Terona +wildc4rd +MHajoha +Split[PC] pioto +Lee_N_Tien +Nova_Viper_Dwagoness Carr0t[PC] puppeteergaming +Antarctica01[Desktop] +altf3 Hugon +GizmoGomez47[offduty] +Jon_Cameron starkline59 +Tom_X[PC|CentaurusReach] Mila_Strelok[PC] ThatGuySava Pandro +Saal[NPC] +sqozilla +Jindrolim[PC] Dultas[PC] Me-me +Heavy_Johnson[PC] Ra1derz_Dr1verz[XB][ND]
+Server sent: :irc.us.fuelrats.com 353 Belmurtoc[BETA_CLIENT] = #fuelrats :+Highwaywarrior +ChefTig[PC] +jerryclark[PC] +Holmes10[PC] Kelazeth +Valkyrien_Terona +wildc4rd +MHajoha +Split[PC] pioto +Lee_N_Tien +Nova_Viper_Dwagoness Carr0t[PC] puppeteergaming +Antarctica01[Desktop] +altf3 Hugon +GizmoGomez47[offduty] +Jon_Cameron starkline59 +Tom_X[PC|CentaurusReach] Mila_Strelok[PC] ThatGuySava Pandro +Saal[NPC] +sqozilla +Jindrolim[PC] Dultas[PC] Me-me +Heavy_Johnson[PC] Ra1derz_Dr1verz[XB][ND]
+:irc.us.fuelrats.com 353 Belmurtoc[BETA_CLIENT] = #fuelrats :+Delta_RC_2526 +NoLifeKing[PC] Daoud_al_Bork[AFK] Zebranky +borbra[pc] Padawan00123 +Zatie[PC] +tivec +Noobdelux[pc] +Deadstar106[XB] Sockseven @Bold_Mole aatxe +Thadius_Wynter[PC] Kenny[PS4|ND] +ABish @Adanaran +FireIsTesting +SnipersLaww &RatMama[BOT] %MechaSqueak[BOT] @MasterLoon @Clapton +carneous NevaKee Tron[PS4] +Lapotor[PC|EU] +Lapotor +Pbadgers +NumberPi +novaferris[jaschish] @Absolver @Marenthyu[Android|PS4]
+Server sent: :irc.us.fuelrats.com 353 Belmurtoc[BETA_CLIENT] = #fuelrats :+Delta_RC_2526 +NoLifeKing[PC] Daoud_al_Bork[AFK] Zebranky +borbra[pc] Padawan00123 +Zatie[PC] +tivec +Noobdelux[pc] +Deadstar106[XB] Sockseven @Bold_Mole aatxe +Thadius_Wynter[PC] Kenny[PS4|ND] +ABish @Adanaran +FireIsTesting +SnipersLaww &RatMama[BOT] %MechaSqueak[BOT] @MasterLoon @Clapton +carneous NevaKee Tron[PS4] +Lapotor[PC|EU] +Lapotor +Pbadgers +NumberPi +novaferris[jaschish] @Absolver @Marenthyu[Android|PS4]
+:irc.us.fuelrats.com 353 Belmurtoc[BETA_CLIENT] = #fuelrats :~Orange_Sheets +_Albuca_ +Rittal +XxPoPxShockzxX[mobile] +esxste +Sikeksis +Unbr34k4bl3 @Calomiriel[away] @xlexious +Marenthyu Savant +rowdy0452 +MrOpposite[PC] +Edmondson +ZephyrSefira[work] +Kaecyra +demfloro[afk] +SirToby[PC|PS4][OffDuty] +Frescador +Holkin +JaniAimo[PC] flynzilla[PC][ND] @CrunchyBaton955 +sw33tp34[PC] @Trezy
+Server sent: :irc.us.fuelrats.com 353 Belmurtoc[BETA_CLIENT] = #fuelrats :~Orange_Sheets +_Albuca_ +Rittal +XxPoPxShockzxX[mobile] +esxste +Sikeksis +Unbr34k4bl3 @Calomiriel[away] @xlexious +Marenthyu Savant +rowdy0452 +MrOpposite[PC] +Edmondson +ZephyrSefira[work] +Kaecyra +demfloro[afk] +SirToby[PC|PS4][OffDuty] +Frescador +Holkin +JaniAimo[PC] flynzilla[PC][ND] @CrunchyBaton955 +sw33tp34[PC] @Trezy
+:irc.us.fuelrats.com 366 Belmurtoc[BETA_CLIENT] #fuelrats :End of /NAMES list.
+Server sent: :irc.us.fuelrats.com 366 Belmurtoc[BETA_CLIENT] #fuelrats :End of /NAMES list.
+:NickServ!services@services.fuelrats.com NOTICE Belmurtoc[BETA_CLIENT] :Your nickname is not registered. To register it, please log on to your account on the FuelRats website and claim your IRC nickname there.
+Server sent: :NickServ!services@services.fuelrats.com NOTICE Belmurtoc[BETA_CLIENT] :Your nickname is not registered. To register it, please log on to your account on the FuelRats website and claim your IRC nickname there.
+:Global!services@services.fuelrats.com NOTICE Belmurtoc[BETA_CLIENT] :[Logon News - Jan 17 02:54:35 2017 CET] Current PvP threat while on rescues. Check http://t.fuelr.at/frkb for more information
+Server sent: :Global!services@services.fuelrats.com NOTICE Belmurtoc[BETA_CLIENT] :[Logon News - Jan 17 02:54:35 2017 CET] Current PvP threat while on rescues. Check http://t.fuelr.at/frkb for more information
+:Global!services@services.fuelrats.com NOTICE Belmurtoc[BETA_CLIENT] :[Random News - Feb 17 19:11:45 2017 CET] **Overseers** Please check Confluence Overseer's page for updated PW process and info 17 Feb 3303. https://confluence.fuelrats.com/display/OV/Overseers
+Server sent: :Global!services@services.fuelrats.com NOTICE Belmurtoc[BETA_CLIENT] :[Random News - Feb 17 19:11:45 2017 CET] **Overseers** Please check Confluence Overseer's page for updated PW process and info 17 Feb 3303. https://confluence.fuelrats.com/display/OV/Overseers
+:OperServ!services@services.fuelrats.com NOTICE Belmurtoc[BETA_CLIENT] :We will now scan your host for insecure proxies. If you do not consent to this scan please disconnect immediately.
+Server sent: :OperServ!services@services.fuelrats.com NOTICE Belmurtoc[BETA_CLIENT] :We will now scan your host for insecure proxies. If you do not consent to this scan please disconnect immediately.
+PING :irc.us.fuelrats.com
+:Belmurtoc[PC]!uid43090@belmurtoc.recruit.fuelrats.com PRIVMSG #fuelrats :It real..... Q-word... tonight
+Server sent: :Belmurtoc[PC]!uid43090@belmurtoc.recruit.fuelrats.com PRIVMSG #fuelrats :It real..... Q-word... tonight
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+:Highwaywarrior!Highwaywar@highwaywarrior.rat.fuelrats.com QUIT :Quit:
+Server sent: :Highwaywarrior!Highwaywar@highwaywarrior.rat.fuelrats.com QUIT :Quit:
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+:Vin_Ikra!Vin_Ikra@vinikra.rat.fuelrats.com NICK :Vin_Ikra[PS4]
+Server sent: :Vin_Ikra!Vin_Ikra@vinikra.rat.fuelrats.com NICK :Vin_Ikra[PS4]
+:SadowsReturn[XB]!SadowsRetu@sadowsreturn.rat.fuelrats.com QUIT :Quit: SteamPriest keeps taking all my saves, I'm outta here!
+Server sent: :SadowsReturn[XB]!SadowsRetu@sadowsreturn.rat.fuelrats.com QUIT :Quit: SteamPriest keeps taking all my saves, I'm outta here!
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com JOIN :#fuelrats
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: oblivionmka - System: COL 285 SECTOR DO-L B23-3 - Platform: XB - O2: OK - Language: English (en-US)
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: oblivionmka - System: COL 285 SECTOR DO-L B23-3 - Platform: XB - O2: OK - Language: English (en-US)
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR oblivionmka - System: COL 285 SECTOR DO-L B23-3 (179.64 LY from Sol) - Platform: 03XB - O2: OK - Language: English (en-US) (Case #4)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR oblivionmka - System: COL 285 SECTOR DO-L B23-3 (179.64 LY from Sol) - Platform: 03XB - O2: OK - Language: English (en-US) (Case #4)
+:ChefTig[PC]!~ChefTigPC@cheftig.rat.fuelrats.com QUIT :Quit: Fly Safe, I'm OUTTIE
+Server sent: :ChefTig[PC]!~ChefTigPC@cheftig.rat.fuelrats.com QUIT :Quit: Fly Safe, I'm OUTTIE
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!prep oblivionmka
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!prep oblivionmka
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :oblivionmka: Please drop from super cruise, come to a complete stop and disable all modules EXCEPT life support.  If you are currently in a Multicrew session and are the ship owner, please also end your Multicrew session (Comms Panel > 2nd tab > Multicrew Options > Disband Crew).
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :oblivionmka: Please drop from super cruise, come to a complete stop and disable all modules EXCEPT life support.  If you are currently in a Multicrew session and are the ship owner, please also end your Multicrew session (Comms Panel > 2nd tab > Multicrew Options > Disband Crew).
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: Hello there.   Could you please confirm you don't have an "Oxygen depleted:" timer in your HUD's upper right?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: Hello there.   Could you please confirm you don't have an "Oxygen depleted:" timer in your HUD's upper right?
+:rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :7j #4
+Server sent: :rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :7j #4
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: are you with us?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: are you with us?
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :YES
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :YES
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: if the blue oxygen depletion timer appears, please tell me as soon as possible.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: if the blue oxygen depletion timer appears, please tell me as soon as possible.
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!go oblivionmka rowdy0452
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!go oblivionmka rowdy0452
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :oblivionmka: Please add the following rat(s) to your friends list: rowdy0452
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :oblivionmka: Please add the following rat(s) to your friends list: rowdy0452
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!xfr oblivionmka
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!xfr oblivionmka
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :oblivionmka: To add the rats to your friends list, tap the XBOX button, press UP on the D-PAD then RIGHT on the D-PAD. Now press A and search for the rat's name.  Make sure to add the rat(s) as a FAVORITE friend.
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :oblivionmka: To add the rats to your friends list, tap the XBOX button, press UP on the D-PAD then RIGHT on the D-PAD. Now press A and search for the rat's name.  Make sure to add the rat(s) as a FAVORITE friend.
+PING :irc.us.fuelrats.com
+:rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :fr-
+Server sent: :rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :fr-
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: please add rowdy0452 to your friend list
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: please add rowdy0452 to your friend list
+PING :irc.us.fuelrats.com
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :i did
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :i did
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: may be something's wrong with the system, can you try again please?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: may be something's wrong with the system, can you try again please?
+PING :irc.us.fuelrats.com
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :ok
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :ok
+:Kenny[PS4|ND]!uid245591@kennypeace.recruit.fuelrats.com QUIT :Quit: Connection closed for inactivity
+Server sent: :Kenny[PS4|ND]!uid245591@kennypeace.recruit.fuelrats.com QUIT :Quit: Connection closed for inactivity
+:rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :fr- try revfr?
+Server sent: :rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :fr- try revfr?
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :aye, pls
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :aye, pls
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: Your rat will try to send you a friend request, please accept it
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: Your rat will try to send you a friend request, please accept it
+PING :irc.us.fuelrats.com
+:d3phoenix[PC]!d3phoenix@d3phoenix.rat.fuelrats.com QUIT :Quit: Leaving
+Server sent: :d3phoenix[PC]!d3phoenix@d3phoenix.rat.fuelrats.com QUIT :Quit: Leaving
+:rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :fr sent
+Server sent: :rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :fr sent
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :accepted
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :accepted
+:SonnyBoombatz!androirc@sonnyboombatz.rat.fuelrats.com JOIN :#fuelrats
+Server sent: :SonnyBoombatz!androirc@sonnyboombatz.rat.fuelrats.com JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v SonnyBoombatz
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v SonnyBoombatz
+:rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :sys+
+Server sent: :rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :sys+
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: great, now please invite your rat to wing
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: great, now please invite your rat to wing
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!xwing oblivionmka
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!xwing oblivionmka
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :oblivionmka: To add the rats to your wing hold the X button and press up on the D-pad, press RB once, then select the name of a rat and select [Invite to wing]
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :oblivionmka: To add the rats to your wing hold the X button and press up on the D-pad, press RB once, then select the name of a rat and select [Invite to wing]
+PING :irc.us.fuelrats.com
+:rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :wr-
+Server sent: :rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :wr-
+PING :irc.us.fuelrats.com
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :sorry but its not giving my that option
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :sorry but its not giving my that option
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com QUIT :Quit: Going offline, see ya! (www.adiirc.com)
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com QUIT :Quit: Going offline, see ya! (www.adiirc.com)
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: can you please check that you are in open play?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: can you please check that you are in open play?
+:rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :solo play
+Server sent: :rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :solo play
+PING :irc.us.fuelrats.com
+:Holmes10[PC]!~Holmes10P@Clk-6790A2D8.ove463.resnet.unca.edu JOIN :#fuelrats
+Server sent: :Holmes10[PC]!~Holmes10P@Clk-6790A2D8.ove463.resnet.unca.edu JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Holmes10[PC]
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Holmes10[PC]
+:rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :client in open
+Server sent: :rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :client in open
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :thank you
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :thank you
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net JOIN :#fuelrats
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: lapimeme - System: 57 zeta pertentis - Platform: PC - O2: NOT OK - Language: English (en-US)
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: lapimeme - System: 57 zeta pertentis - Platform: PC - O2: NOT OK - Language: English (en-US)
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR lapimeme - System: 57 zeta pertentis (not in EDDB) - Platform: PC - O2: 04NOT OK - Language: English (en-US) (Case #6)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR lapimeme - System: 57 zeta pertentis (not in EDDB) - Platform: PC - O2: 04NOT OK - Language: English (en-US) (Case #6)
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme Please note down your location (Left Panel > Navigation) then Save and Exit to Main Menu immediately!
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme Please note down your location (Left Panel > Navigation) then Save and Exit to Main Menu immediately!
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcquit lapimeme
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcquit lapimeme
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme: Please log out of the game immediately by pressing ESC and selecting Save and Exit to Main Menu!
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme: Please log out of the game immediately by pressing ESC and selecting Save and Exit to Main Menu!
+PING :irc.us.fuelrats.com
+:rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :wr+ #4 bc-
+Server sent: :rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :wr+ #4 bc-
+:Grimdokku!Grimdokku@grimdokku.rat.fuelrats.com QUIT :Quit: Grimdokku
+Server sent: :Grimdokku!Grimdokku@grimdokku.rat.fuelrats.com QUIT :Quit: Grimdokku
+:_Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :2j if 57 zeta serpentis
+Server sent: :_Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :2j if 57 zeta serpentis
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :ahh terribly sorry. yes i was on solo. changed to open play now
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :ahh terribly sorry. yes i was on solo. changed to open play now
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: now please light wing beacon
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: now please light wing beacon
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!xbeacon oblivionmka
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!xbeacon oblivionmka
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :oblivionmka: To light your wing beacon hold X and press RIGHT on the D-pad. Press the LB button once then select beacon and set it from OFF to WING
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :oblivionmka: To light your wing beacon hold X and press RIGHT on the D-pad. Press the LB button once then select beacon and set it from OFF to WING
+:Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :2J #6
+Server sent: :Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :2J #6
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   Could you please confirm that you had exited to the Main Menu?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   Could you please confirm that you had exited to the Main Menu?
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :yes
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :yes
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :im at the main menu
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :im at the main menu
+:rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :bc+ 480kls #4
+Server sent: :rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :bc+ 480kls #4
+PING :irc.us.fuelrats.com
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :Beacon is on
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :Beacon is on
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: Great. Please do NOT enter the game unless I specifically tell you to.  All operations from no on will be done from the main menu
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: Great. Please do NOT enter the game unless I specifically tell you to.  All operations from no on will be done from the main menu
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :k
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :k
+:Fermmoylle[PS4]!uid177591@fermmoylle.rat.fuelrats.com NICK :Fermmoylle
+Server sent: :Fermmoylle[PS4]!uid177591@fermmoylle.rat.fuelrats.com NICK :Fermmoylle
+:Fermmoylle!uid177591@fermmoylle.rat.fuelrats.com QUIT :Quit:
+Server sent: :Fermmoylle!uid177591@fermmoylle.rat.fuelrats.com QUIT :Quit:
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP JOIN :#fuelrats
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: born4games - System: PICIUM SECTOR DM-L A8-0 - Platform: PC - O2: OK - Language: Dutch (nl)
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: born4games - System: PICIUM SECTOR DM-L A8-0 - Platform: PC - O2: OK - Language: Dutch (nl)
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR born4games - System: PICIUM SECTOR DM-L A8-0 (not in EDDB) - Platform: PC - O2: OK - Language: Dutch (nl) (Case #5)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR born4games - System: PICIUM SECTOR DM-L A8-0 (not in EDDB) - Platform: PC - O2: OK - Language: Dutch (nl) (Case #5)
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   Could you tell me how much time was left on your o2 countdown when you logged off?  Do not log in to check
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   Could you tell me how much time was left on your o2 countdown when you logged off?  Do not log in to check
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :HEY GUYS
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :HEY GUYS
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :hey born4games, do you need fuel?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :hey born4games, do you need fuel?
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :i think like 2:00-2:10
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :i think like 2:00-2:10
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :yeha man
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :yeha man
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :i need fuel
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :i need fuel
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!grab lapimeme
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!grab lapimeme
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme's case updated with: "i think like 2:00-2:10"  (Case 6)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme's case updated with: "i think like 2:00-2:10"  (Case 6)
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!prep born4games
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!prep born4games
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :born4games: Please drop from super cruise, come to a complete stop and disable all modules EXCEPT life support.  If you are currently in a Multicrew session and are the ship owner, please also end your Multicrew session (Comms Panel > 2nd tab > Multicrew Options > Disband Crew).
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :born4games: Please drop from super cruise, come to a complete stop and disable all modules EXCEPT life support.  If you are currently in a Multicrew session and are the ship owner, please also end your Multicrew session (Comms Panel > 2nd tab > Multicrew Options > Disband Crew).
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :4j #6
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :4j #6
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: your rat is on his way to you, please standby =]
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: your rat is on his way to you, please standby =]
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :okay
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :okay
+PING :irc.us.fuelrats.com
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :thank you sir :)
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :thank you sir :)
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :born4games:   Could you please confirm you don't have an "Oxygen depleted:" timer in your HUD's upper right?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :born4games:   Could you please confirm you don't have an "Oxygen depleted:" timer in your HUD's upper right?
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :no i still have some fuel left
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :no i still have some fuel left
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :but i cant jump any where
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :but i cant jump any where
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :and no station nearby
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :and no station nearby
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :born4games: Great. please make sure that you have disabled all unessential modules apart from life support.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :born4games: Great. please make sure that you have disabled all unessential modules apart from life support.
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :okay
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :okay
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :wel do
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :wel do
+:BottleBotleBinks[mobile]!BottleBotl@bottlebotlebinks.rat.fuelrats.com JOIN :#fuelrats
+Server sent: :BottleBotleBinks[mobile]!BottleBotl@bottlebotlebinks.rat.fuelrats.com JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v BottleBotleBinks[mobile]
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v BottleBotleBinks[mobile]
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: Can you tell us where in the sytem were you when you run out of fuel?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: Can you tell us where in the sytem were you when you run out of fuel?
+PING :irc.us.fuelrats.com
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :5j #6; 3j #5
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :5j #6; 3j #5
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: Near a star, or may be on your way somewhere?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: Near a star, or may be on your way somewhere?
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :57 zeta pertentis i believe
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :57 zeta pertentis i believe
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :go 5 MHajoha
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :go 5 MHajoha
+:Grimdokku!Grimdokku@grimdokku.rat.fuelrats.com JOIN :#fuelrats
+Server sent: :Grimdokku!Grimdokku@grimdokku.rat.fuelrats.com JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Grimdokku
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Grimdokku
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: What about where in the system?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: What about where in the system?
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!assign MHajoha born4games
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!assign MHajoha born4games
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Lee_N_Tien: Could not find a case with that name or number.
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Lee_N_Tien: Could not find a case with that name or number.
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!assign born4games MHajoha
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!assign born4games MHajoha
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :born4games: Please add the following rat(s) to your friends list: MHajoha
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :born4games: Please add the following rat(s) to your friends list: MHajoha
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :rgr
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :rgr
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcfr born4games
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcfr born4games
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :born4games: To send a friend request, go to the menu (Hit ESC), click friends and private groups, and click ADD FRIEND
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :born4games: To send a friend request, go to the menu (Hit ESC), click friends and private groups, and click ADD FRIEND
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :dispatch am I go for #6 (CR)?
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :dispatch am I go for #6 (CR)?
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :umm theres a big station with the circular ring around it i was like 10000 lightseconds away from that coming from the star you warp to
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :umm theres a big station with the circular ring around it i was like 10000 lightseconds away from that coming from the star you warp to
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Holmes10[PC]: yes
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Holmes10[PC]: yes
+PING :irc.us.fuelrats.com
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :rgr sys+ fr-
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :rgr sys+ fr-
+:Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com JOIN :#fuelrats
+Server sent: :Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: Psychofu - System: Kongon - Platform: PS4 - O2: OK - Language: English (en-US)
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: Psychofu - System: Kongon - Platform: PS4 - O2: OK - Language: English (en-US)
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR Psychofu - System: Kongon (not in EDDB) - Platform: 12PS4 - O2: OK - Language: English (en-US) (Case #8)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR Psychofu - System: Kongon (not in EDDB) - Platform: 12PS4 - O2: OK - Language: English (en-US) (Case #8)
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!prep Psychofu
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!prep Psychofu
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Psychofu: Please drop from super cruise, come to a complete stop and disable all modules EXCEPT life support.  If you are currently in a Multicrew session and are the ship owner, please also end your Multicrew session (Comms Panel > 2nd tab > Multicrew Options > Disband Crew).
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Psychofu: Please drop from super cruise, come to a complete stop and disable all modules EXCEPT life support.  If you are currently in a Multicrew session and are the ship owner, please also end your Multicrew session (Comms Panel > 2nd tab > Multicrew Options > Disband Crew).
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Psychofu:   Could you please confirm you don't have an "Oxygen depleted:" timer in your HUD's upper right?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Psychofu:   Could you please confirm you don't have an "Oxygen depleted:" timer in your HUD's upper right?
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Holmes10[PC]: can you please check for station in the system?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Holmes10[PC]: can you please check for station in the system?
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!grab lapimeme
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!grab lapimeme
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme's case updated with: "umm theres a big station with the circular ring around it i was like 10000 lightseconds away from that coming from the star you warp to"  (Case 6)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme's case updated with: "umm theres a big station with the circular ring around it i was like 10000 lightseconds away from that coming from the star you warp to"  (Case 6)
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!multi
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!multi
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Please ignore messages that do not have your name in them, they are most likely not meant for you! We usually have multiple rescues ongoing, so not everything is directed at you!
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Please ignore messages that do not have your name in them, they are most likely not meant for you! We usually have multiple rescues ongoing, so not everything is directed at you!
+:_Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :Orbis/occelus stations in 57 zeta are Musabayev Dock, Lvi-Montalcini orbital and Mackellar Ring
+Server sent: :_Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :Orbis/occelus stations in 57 zeta are Musabayev Dock, Lvi-Montalcini orbital and Mackellar Ring
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :MHajoha  i add you as friend
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :MHajoha  i add you as friend
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :fr+ #5
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :fr+ #5
+:Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com PRIVMSG #fuelrats :I still have oxygen
+Server sent: :Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com PRIVMSG #fuelrats :I still have oxygen
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :born4games: Great! Now please add him to wing and light your wing beacon
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :born4games: Great! Now please add him to wing and light your wing beacon
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcwing born4games
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcwing born4games
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :born4games: To send a wing request, go to the comms panel (Default key 2), hit ESC to get out of the chat box, and move to the second panel (Default key E). Then select the CMDR you want to invite to your wing and select Invite to wing.
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :born4games: To send a wing request, go to the comms panel (Default key 2), hit ESC to get out of the chat box, and move to the second panel (Default key E). Then select the CMDR you want to invite to your wing and select Invite to wing.
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcbeacon born4games
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcbeacon born4games
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :born4games: To light your wing beacon, go to the right-side panel (Default key 4), navigate to the functions screen (Default key Q), select BEACON and set it to WING
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :born4games: To light your wing beacon, go to the right-side panel (Default key 4), navigate to the functions screen (Default key Q), select BEACON and set it to WING
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :rgr I have system charts up and showing no ringed planets with stations orbiting them or moons of said ringed planents
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :rgr I have system charts up and showing no ringed planets with stations orbiting them or moons of said ringed planents
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Psychofu:   If the blue oxygen depletion timer appears, please tell me as soon as possible.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Psychofu:   If the blue oxygen depletion timer appears, please tell me as soon as possible.
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :#5 client at mm, though not cr?
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :#5 client at mm, though not cr?
+:Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com PRIVMSG #fuelrats :Never mind, im special, lol
+Server sent: :Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com PRIVMSG #fuelrats :Never mind, im special, lol
+PING :irc.us.fuelrats.com
+:Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com PRIVMSG #fuelrats :Station acquired
+Server sent: :Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com PRIVMSG #fuelrats :Station acquired
+:BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :4j #8 assuming kongan
+Server sent: :BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :4j #8 assuming kongan
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Psychofu: Ok, please make your way there and let us know when you are safely docked
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Psychofu: Ok, please make your way there and let us know when you are safely docked
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :sys+ #5, wr+
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :sys+ #5, wr+
+:Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme, what was the dock's name if you remember: Musabayev Dock, Lvi-Montalcini orbital and Mackellar Ring
+Server sent: :Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme, what was the dock's name if you remember: Musabayev Dock, Lvi-Montalcini orbital and Mackellar Ring
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :mackellar ring
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :mackellar ring
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: you still with us?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: you still with us?
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :additionally no planets are near the 10,000ls ballpark
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :additionally no planets are near the 10,000ls ballpark
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :yes
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :yes
+:BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :3j #8 assuming kondon
+Server sent: :BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :3j #8 assuming kondon
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: were you on your way to that station from the main star? Do you remember the distance to the station when you run dry?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: were you on your way to that station from the main star? Do you remember the distance to the station when you run dry?
+:Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com PRIVMSG #fuelrats :Thank you guys, i found tbe statin here
+Server sent: :Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com PRIVMSG #fuelrats :Thank you guys, i found tbe statin here
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :i was going to the station from the main star
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :i was going to the station from the main star
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :BottleBotleBinks[client found a station, standby
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :BottleBotleBinks[client found a station, standby
+:BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :rgr
+Server sent: :BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :rgr
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!grab lapimeme
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!grab lapimeme
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme's case updated with: "i was going to the station from the main star"  (Case 6)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme's case updated with: "i was going to the station from the main star"  (Case 6)
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!inject lapimeme mackellar ring
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!inject lapimeme mackellar ring
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme's case updated with: "mackellar ring"  (Case 6)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme's case updated with: "mackellar ring"  (Case 6)
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: still no oxygen countdown?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: still no oxygen countdown?
+:Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com PRIVMSG #fuelrats :Coddington
+Server sent: :Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com PRIVMSG #fuelrats :Coddington
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :no not yet
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :no not yet
+PING :irc.us.fuelrats.com
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :dispatch be advised station is 438k ls from present location estimate 12 minutes travel time
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :dispatch be advised station is 438k ls from present location estimate 12 minutes travel time
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: great, just checking =]
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka: great, just checking =]
+:Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com PRIVMSG #fuelrats :Thank you folks!
+Server sent: :Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com PRIVMSG #fuelrats :Thank you folks!
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :bc+ #5
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :bc+ #5
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :where would you like me to position?
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :where would you like me to position?
+:rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :fuel+ #4
+Server sent: :rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :fuel+ #4
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: in case I've missed it - can you please tell me if you know how close / far were you from that station or from the main star?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: in case I've missed it - can you please tell me if you know how close / far were you from that station or from the main star?
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :wow THANK YOU GUYS!
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :wow THANK YOU GUYS!
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :fuel+ #5
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :fuel+ #5
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!clear oblivionmka rowdy0452
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!clear oblivionmka rowdy0452
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case oblivionmka got cleared!
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case oblivionmka got cleared!
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka:   Thanks for calling the Fuel Rats, glad we could help you. Please begin activating your modules starting with your shields. Also please stay in game and in this chat for a quick debrief from our rats.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :oblivionmka:   Thanks for calling the Fuel Rats, glad we could help you. Please begin activating your modules starting with your shields. Also please stay in game and in this chat for a quick debrief from our rats.
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :i am roughly 10000 lightsecond from the station coming from the main star
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :i am roughly 10000 lightsecond from the station coming from the main star
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!grab lapimeme
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!grab lapimeme
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme's case updated with: "i am roughly 10000 lightsecond from the station coming from the main star"  (Case 6)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme's case updated with: "i am roughly 10000 lightsecond from the station coming from the main star"  (Case 6)
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :rats in the system - please confirm, stations are 438kls from the main star?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :rats in the system - please confirm, stations are 438kls from the main star?
+PING :irc.us.fuelrats.com
+:_Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :confirm
+Server sent: :_Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :confirm
+:rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :!kgbfoam oblivionmka
+Server sent: :rowdy0452!rowdy0452@rowdy0452.overseer.fuelrats.com PRIVMSG #fuelrats :!kgbfoam oblivionmka
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :oblivionmka: To learn about Filtering the Galaxy Map, click here: http://t.fuelr.at/kgbfoam
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :oblivionmka: To learn about Filtering the Galaxy Map, click here: http://t.fuelr.at/kgbfoam
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :confirmed
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :confirmed
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :right, rats please sys+ so I can add all 3
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :right, rats please sys+ so I can add all 3
+:_Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :sys+ c6
+Server sent: :_Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :sys+ c6
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :sys+ #6
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :sys+ #6
+:Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :+sys #6
+Server sent: :Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :+sys #6
+:Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+Server sent: :Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: I'm going to assign 3 rats to you, please add all 3 from the Main Menu.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: I'm going to assign 3 rats to you, please add all 3 from the Main Menu.
+:Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com JOIN :#fuelrats
+Server sent: :Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com JOIN :#fuelrats
+:Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com QUIT :Quit: Psychofu
+Server sent: :Psychofu!4759d733@Clk-6937A75F.dhcp.mdfd.or.charter.com QUIT :Quit: Psychofu
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :alright
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :alright
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!assign lapimeme _Ravenov Holmes10[PC] Nova_Viper_Dwagoness
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!assign lapimeme _Ravenov Holmes10[PC] Nova_Viper_Dwagoness
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme: Please add the following rat(s) to your friends list: Ravenov, Holmes10, Nova Viper Dwagoness
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme: Please add the following rat(s) to your friends list: Ravenov, Holmes10, Nova Viper Dwagoness
+:Minerslikejs!6c073b4c@minerslikejs.rat.fuelrats.com JOIN :#fuelrats
+Server sent: :Minerslikejs!6c073b4c@minerslikejs.rat.fuelrats.com JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Minerslikejs
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Minerslikejs
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcfr lapimeme
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcfr lapimeme
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme: To send a friend request, go to the menu (Hit ESC), click friends and private groups, and click ADD FRIEND
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme: To send a friend request, go to the menu (Hit ESC), click friends and private groups, and click ADD FRIEND
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :rats make your way to the 12-9kls mark towards the station
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :rats make your way to the 12-9kls mark towards the station
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :rgr will notify when pos+
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :rgr will notify when pos+
+:_Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :way ahead of ya ;)
+Server sent: :_Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :way ahead of ya ;)
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :MHajoha: great work
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :MHajoha: great work
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :ty o7
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :ty o7
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!clear born4games MHajoha
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!clear born4games MHajoha
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case born4games got cleared!
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case born4games got cleared!
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :born4games: sorry for being late, but we are glad we could help you =]
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :born4games: sorry for being late, but we are glad we could help you =]
+:Belmurtoc[BETA_CLIENT]2!Belmurtoc@Clk-101164EA.nycap.res.rr.com JOIN :#fuelrats
+Server sent: :Belmurtoc[BETA_CLIENT]2!Belmurtoc@Clk-101164EA.nycap.res.rr.com JOIN :#fuelrats
+PING :irc.us.fuelrats.com
+:Belmurtoc[BETA_CLIENT]2!Belmurtoc@Clk-101164EA.nycap.res.rr.com QUIT :Read error
+Server sent: :Belmurtoc[BETA_CLIENT]2!Belmurtoc@Clk-101164EA.nycap.res.rr.com QUIT :Read error
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :what are the names of the 3 people sent to assist me?
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :what are the names of the 3 people sent to assist me?
+:_Ravenov!AndChat627@ravenov.op.fuelrats.com NICK :Ravenov
+Server sent: :_Ravenov!AndChat627@ravenov.op.fuelrats.com NICK :Ravenov
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!md 8 client found a station soon after contacting us, rescue cancelled
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!md 8 client found a station soon after contacting us, rescue cancelled
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Closing case of Psychofu (Case #ff142662-84bc-4d6a-b540-99c7b9eae544) and adding it to the Marked for Deletion List™.
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Closing case of Psychofu (Case #ff142662-84bc-4d6a-b540-99c7b9eae544) and adding it to the Marked for Deletion List™.
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case Psychofu got cleared!
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case Psychofu got cleared!
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: Ravenov, Holmes10, Nova Viper Dwagoness
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: Ravenov, Holmes10, Nova Viper Dwagoness
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :got FR, client MM
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :got FR, client MM
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :!kgbfoam born4games
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :!kgbfoam born4games
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :born4games: To learn about Filtering the Galaxy Map, click here: http://t.fuelr.at/kgbfoam
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :born4games: To learn about Filtering the Galaxy Map, click here: http://t.fuelr.at/kgbfoam
+PING :irc.us.fuelrats.com
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :fr+ client mm conf
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :fr+ client mm conf
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :theyre added
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :theyre added
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: Your rats are making their way to your last position. Meanwhile I'll walk you through what we'll need you to do. Please read everything and confirm that you understand.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: Your rats are making their way to your last position. Meanwhile I'll walk you through what we'll need you to do. Please read everything and confirm that you understand.
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   Here is a summary what we will need you to do. DO NOT do this yet. This is only to give you instructions. You will only do this when I type “GO” to you 3 times in a row. After you read these – please tell me that you have done so and ready to continue.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   Here is a summary what we will need you to do. DO NOT do this yet. This is only to give you instructions. You will only do this when I type “GO” to you 3 times in a row. After you read these – please tell me that you have done so and ready to continue.
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :  1 – first, you will need to log into OPEN play (NOT now, only after I tell you to).
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :  1 – first, you will need to log into OPEN play (NOT now, only after I tell you to).
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :  2 – second,  you will need to activate your wing beacon. Instructions will follow below. You will need to do this as fast as possible.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :  2 – second,  you will need to activate your wing beacon. Instructions will follow below. You will need to do this as fast as possible.
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :  3 – third, invite your rats to a wing. Instructions below as well. Remember the rats’ names before you log in, but they will most likely appear at the top of the list, being in the same system with you.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :  3 – third, invite your rats to a wing. Instructions below as well. Remember the rats’ names before you log in, but they will most likely appear at the top of the list, being in the same system with you.
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :  4 – last, return to this chat and let me know how much time remains on your o2 timer. Update this information every 30 seconds, if you can. Be ready to quit back to the main menu as soon as possible, if I tell you to.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :  4 – last, return to this chat and let me know how much time remains on your o2 timer. Update this information every 30 seconds, if you can. Be ready to quit back to the main menu as soon as possible, if I tell you to.
+:Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :pos+ 10,000ls #6
+Server sent: :Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :pos+ 10,000ls #6
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   Do you understand these instructions?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   Do you understand these instructions?
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :ok
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :ok
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :i understand
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :i understand
+:TankHosting!uid242036@bobotank.rat.fuelrats.com QUIT :Quit: Connection closed for inactivity
+Server sent: :TankHosting!uid242036@bobotank.rat.fuelrats.com QUIT :Quit: Connection closed for inactivity
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: here are more specific instructions on how to do that
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: here are more specific instructions on how to do that
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :yes i understand
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :yes i understand
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcbeacon lapimeme
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcbeacon lapimeme
+PING :irc.us.fuelrats.com
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme: To light your wing beacon, go to the right-side panel (Default key 4), navigate to the functions screen (Default key Q), select BEACON and set it to WING
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme: To light your wing beacon, go to the right-side panel (Default key 4), navigate to the functions screen (Default key Q), select BEACON and set it to WING
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcwing lapimeme
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcwing lapimeme
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme: To send a wing request, go to the comms panel (Default key 2), hit ESC to get out of the chat box, and move to the second panel (Default key E). Then select the CMDR you want to invite to your wing and select Invite to wing.
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme: To send a wing request, go to the comms panel (Default key 2), hit ESC to get out of the chat box, and move to the second panel (Default key E). Then select the CMDR you want to invite to your wing and select Invite to wing.
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :all read?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :all read?
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :  Video demonstration: http://bit.ly/2axjd5C
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :  Video demonstration: http://bit.ly/2axjd5C
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :yes
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :yes
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: Speed is key, we'll only have one shot at this most likely
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: Speed is key, we'll only have one shot at this most likely
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   one last bit of preparation. Please close your game entirely, and restart it, staying at the MAIN MENU.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   one last bit of preparation. Please close your game entirely, and restart it, staying at the MAIN MENU.
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :rats once pos+ please relog and comms test with client
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :rats once pos+ please relog and comms test with client
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :i had comms+ already, but ok
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :i had comms+ already, but ok
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :am i required to close the launcher too?
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :am i required to close the launcher too?
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: no
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: no
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :confirmed client went offline and now at mm
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :confirmed client went offline and now at mm
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :alright i just restarted my game
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :alright i just restarted my game
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   once you had restarted your game, the rats will message you ingame, you will see their messages in the chat in the main menu, lower right corner. Please answer to all 3 by selecting their names from the list above that chat.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   once you had restarted your game, the rats will message you ingame, you will see their messages in the chat in the main menu, lower right corner. Please answer to all 3 by selecting their names from the list above that chat.
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :back in space, comms+
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :back in space, comms+
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :thnx MHajoha  gl guys
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP PRIVMSG #fuelrats :thnx MHajoha  gl guys
+PING :irc.us.fuelrats.com
+:born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+Server sent: :born4games!56557c1f@6065C1B1.B9FADB6.E97C912A.IP QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :great Ravenov
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :great Ravenov
+:Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :comms+ back in supercruise
+Server sent: :Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :comms+ back in supercruise
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :comms+
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :comms+
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :i have responded to their tests
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :i have responded to their tests
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Holmes10[PC]: pos and relog ?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Holmes10[PC]: pos and relog ?
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :30k ls from pos+ then reloging
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :30k ls from pos+ then reloging
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :rgr that
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :rgr that
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: only one rat remaining to position
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: only one rat remaining to position
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :alright
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :alright
+:jerryclark[PC]!fossil@jerryclark.rat.fuelrats.com QUIT :Quit: Be seeing you...
+Server sent: :jerryclark[PC]!fossil@jerryclark.rat.fuelrats.com QUIT :Quit: Be seeing you...
+PING :irc.us.fuelrats.com
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :pos+ at 12k ls from mackellar proceeding to relog as we speak
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :pos+ at 12k ls from mackellar proceeding to relog as we speak
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: so, provided you have default controls: after you log in, you will look at your right panel (default 4), then select tab Functions (press Q once), then find Beacon (usually 4th line), select it and set it to WING. Then comms panel (default 2), 2nd tab there (press E by default), invite 3 rats to your wing.  Then switch to here and let us know how much time is left and be ready to log off if I ask
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: so, provided you have default controls: after you log in, you will look at your right panel (default 4), then select tab Functions (press Q once), then find Beacon (usually 4th line), select it and set it to WING. Then comms panel (default 2), 2nd tab there (press E by default), invite 3 rats to your wing.  Then switch to here and let us know how much time is left and be ready to log off if I ask
+PING :irc.us.fuelrats.com
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :so when should i go?
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :so when should i go?
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: not yet, let's wait for Holmes10 to finish relogging
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: not yet, let's wait for Holmes10 to finish relogging
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :alright
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :alright
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :all good guys:)
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :all good guys:)
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :thanks again rowdy!
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PRIVMSG #fuelrats :thanks again rowdy!
+PING :irc.us.fuelrats.com
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :now pos+ in sc
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :now pos+ in sc
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :all rats ready?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :all rats ready?
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :rdy
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :rdy
+:Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :rgr dispatch
+Server sent: :Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :rgr dispatch
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: are you ready?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: are you ready?
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :rdy
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :rdy
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :yes
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :yes
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: right, we are GO for the rescue!
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: right, we are GO for the rescue!
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :  1 – log into OPEN play, 2 – set beacon to WING, 3 – invite all your Rats to wing, 4 – report here your timer and be ready to logoff again if I tell you to.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :  1 – log into OPEN play, 2 – set beacon to WING, 3 – invite all your Rats to wing, 4 – report here your timer and be ready to logoff again if I tell you to.
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcbeacon
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcbeacon
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :To light your wing beacon, go to the right-side panel (Default key 4), navigate to the functions screen (Default key Q), select BEACON and set it to WING
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :To light your wing beacon, go to the right-side panel (Default key 4), navigate to the functions screen (Default key Q), select BEACON and set it to WING
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :sysconf
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :sysconf
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :client in open
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :client in open
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcwing
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcwing
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :To send a wing request, go to the comms panel (Default key 2), hit ESC to get out of the chat box, and move to the second panel (Default key E). Then select the CMDR you want to invite to your wing and select Invite to wing.
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :To send a wing request, go to the comms panel (Default key 2), hit ESC to get out of the chat box, and move to the second panel (Default key E). Then select the CMDR you want to invite to your wing and select Invite to wing.
+:xboxfreak24[PC]!quassel@xboxfreak24.rat.fuelrats.com JOIN :#fuelrats
+Server sent: :xboxfreak24[PC]!quassel@xboxfreak24.rat.fuelrats.com JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v xboxfreak24[PC]
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v xboxfreak24[PC]
+PING :irc.us.fuelrats.com
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :1:30 left
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :1:30 left
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :wr+ bc+ 13kls
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :wr+ bc+ 13kls
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcquit lapimeme
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!pcquit lapimeme
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme: Please log out of the game immediately by pressing ESC and selecting Save and Exit to Main Menu!
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :lapimeme: Please log out of the game immediately by pressing ESC and selecting Save and Exit to Main Menu!
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :all other steps have been completed
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :all other steps have been completed
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :12 k out
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :12 k out
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :bc+
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :bc+
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :8kls
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :8kls
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :DONE
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :DONE
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: what was the time left?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: what was the time left?
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :1:10
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :1:10
+:legendarylol!a73e6b5b@legendarylol.recruit.fuelrats.com QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+Server sent: :legendarylol!a73e6b5b@legendarylol.recruit.fuelrats.com QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: ok, we will repeat the process once rats are closer to your last location
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: ok, we will repeat the process once rats are closer to your last location
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :alright
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :alright
+:oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PART #fuelrats
+Server sent: :oblivionmka!c000ac53@Clk-628DD7DB.cpe.teksavvy.com PART #fuelrats
+PING :irc.us.fuelrats.com
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :Lee_N_Tien: you want us out of this wing?
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :Lee_N_Tien: you want us out of this wing?
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :I am 759 ls back from nova
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :I am 759 ls back from nova
+PING :irc.us.fuelrats.com
+:BottleBotleBinks[mobile]!BottleBotl@bottlebotlebinks.rat.fuelrats.com QUIT :Quit: Goodbye
+Server sent: :BottleBotleBinks[mobile]!BottleBotl@bottlebotlebinks.rat.fuelrats.com QUIT :Quit: Goodbye
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: now familiar with the controls - how fast do you think will you manage to repeat the process? beacon and wing invites?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: now familiar with the controls - how fast do you think will you manage to repeat the process? beacon and wing invites?
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :like within 10 seconds
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :like within 10 seconds
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Ravenov: I think we should go with the sop?.. 1 min still ok, beacon 1st, then 1st rat already sees the bc?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Ravenov: I think we should go with the sop?.. 1 min still ok, beacon 1st, then 1st rat already sees the bc?
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :flip a coin ... instancing should be better if lapimeme invites us
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :flip a coin ... instancing should be better if lapimeme invites us
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :ok, leaving wing, will advise when cooldown complete
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :ok, leaving wing, will advise when cooldown complete
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :right, rats make sure you all pos+
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :right, rats make sure you all pos+
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :leave wing, cooldown
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :leave wing, cooldown
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :pos+  sc inst+ with nova
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :pos+  sc inst+ with nova
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :pos+ cooldown complete and ready to rock and/or roll
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :pos+ cooldown complete and ready to rock and/or roll
+:Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :cd compleat, pos+
+Server sent: :Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :cd compleat, pos+
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :rdy
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :rdy
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: are you ready for another go?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: are you ready for another go?
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :yep
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :yep
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: GO GO GO
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: GO GO GO
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :1 – log into OPEN play, 2 – set beacon to WING, 3 – invite all your Rats to wing, 4 – report here your timer and be ready to logoff again if I tell you to.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :1 – log into OPEN play, 2 – set beacon to WING, 3 – invite all your Rats to wing, 4 – report here your timer and be ready to logoff again if I tell you to.
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :in open
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :in open
+PING :irc.us.fuelrats.com
+:Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :fuel+
+Server sent: :Ravenov!AndChat627@ravenov.op.fuelrats.com PRIVMSG #fuelrats :fuel+
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :15 seconds
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :15 seconds
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Great work rats!
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Great work rats!
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: your ship should start coming to life now
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme: your ship should start coming to life now
+:lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :oh thank god
+Server sent: :lapimeme!62752923@Clk-DF30A1B4.bltmmd.fios.verizon.net PRIVMSG #fuelrats :oh thank god
+:Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :+fuel
+Server sent: :Nova_Viper_Dwagoness!Nova_Viper@novaviperdwagoness.rat.fuelrats.com PRIVMSG #fuelrats :+fuel
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   Thanks for calling the Fuel Rats, glad we could help you. Please begin activating your modules starting with your shields. Also please stay in game and in this chat for a quick debrief from our rats.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :lapimeme:   Thanks for calling the Fuel Rats, glad we could help you. Please begin activating your modules starting with your shields. Also please stay in game and in this chat for a quick debrief from our rats.
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!clear lapimeme Ravenov
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!clear lapimeme Ravenov
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case lapimeme got cleared!
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case lapimeme got cleared!
+PING :irc.us.fuelrats.com
+:BottleBotleBinks[mobile]!BottleBotl@bottlebotlebinks.rat.fuelrats.com JOIN :#fuelrats
+Server sent: :BottleBotleBinks[mobile]!BottleBotl@bottlebotlebinks.rat.fuelrats.com JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v BottleBotleBinks[mobile]
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v BottleBotleBinks[mobile]
+:BottleBotleBinks[mobile]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :ACTION pokes BottleBotleBinks[PS4]
+Server sent: :BottleBotleBinks[mobile]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :ACTION pokes BottleBotleBinks[PS4]
+PING :irc.us.fuelrats.com
+:BottleBotleBinks[mobile]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :Oops
+Server sent: :BottleBotleBinks[mobile]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :Oops
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :!rc BottleBotleBinks[mobile]
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :!rc BottleBotleBinks[mobile]
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :BottleBotleBinks[mobile]: Hello, #fuelrats is reserved for active rescues, if you wish to chat please join #ratchat by typing '/join #ratchat'
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :BottleBotleBinks[mobile]: Hello, #fuelrats is reserved for active rescues, if you wish to chat please join #ratchat by typing '/join #ratchat'
+PING :irc.us.fuelrats.com
+:Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :dispatch I am going offline as ravenov has db for #6
+Server sent: :Holmes10[PC]!~Holmes10P@holmes10.rat.fuelrats.com PRIVMSG #fuelrats :dispatch I am going offline as ravenov has db for #6
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+:BottleBotleBinks[mobile]!BottleBotl@bottlebotlebinks.rat.fuelrats.com QUIT :Quit: Goodbye
+Server sent: :BottleBotleBinks[mobile]!BottleBotl@bottlebotlebinks.rat.fuelrats.com QUIT :Quit: Goodbye
+:Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com JOIN :#fuelrats
+Server sent: :Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: Fynk - System: NGC 7026 Sector EL-Y D5 - Platform: PS4 - O2: OK - Language: English (en-US)
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: Fynk - System: NGC 7026 Sector EL-Y D5 - Platform: PS4 - O2: OK - Language: English (en-US)
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR Fynk - System: NGC 7026 Sector EL-Y D5 (5632.96 LY from Sothis) - Platform: 12PS4 - O2: OK - Language: English (en-US) (Case #1)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR Fynk - System: NGC 7026 Sector EL-Y D5 (5632.96 LY from Sothis) - Platform: 12PS4 - O2: OK - Language: English (en-US) (Case #1)
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!prep Fynk
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!prep Fynk
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Fynk: Please drop from super cruise, come to a complete stop and disable all modules EXCEPT life support.  If you are currently in a Multicrew session and are the ship owner, please also end your Multicrew session (Comms Panel > 2nd tab > Multicrew Options > Disband Crew).
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Fynk: Please drop from super cruise, come to a complete stop and disable all modules EXCEPT life support.  If you are currently in a Multicrew session and are the ship owner, please also end your Multicrew session (Comms Panel > 2nd tab > Multicrew Options > Disband Crew).
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Fynk:   Could you please confirm you don't have an "Oxygen depleted:" timer in your HUD's upper right?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Fynk:   Could you please confirm you don't have an "Oxygen depleted:" timer in your HUD's upper right?
+:CrunchyBaton955!sid139346@admin.fuelrats.com PRIVMSG #fuelrats :Lee_N_Tien: he's a damaged fuel scoop, probable reboot/repair
+Server sent: :CrunchyBaton955!sid139346@admin.fuelrats.com PRIVMSG #fuelrats :Lee_N_Tien: he's a damaged fuel scoop, probable reboot/repair
+:Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com PRIVMSG #fuelrats :Confirmed no oxygen depleted timer
+Server sent: :Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com PRIVMSG #fuelrats :Confirmed no oxygen depleted timer
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Fynk:   If the blue oxygen depletion timer appears, please tell me as soon as possible.
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Fynk:   If the blue oxygen depletion timer appears, please tell me as soon as possible.
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Fynk: meanwhile please make sure all unnecessary modules are offline
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Fynk: meanwhile please make sure all unnecessary modules are offline
+PING :irc.us.fuelrats.com
+:Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com PRIVMSG #fuelrats :what he said, buzzed too close to a star and scoop is damaged
+Server sent: :Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com PRIVMSG #fuelrats :what he said, buzzed too close to a star and scoop is damaged
+:Rose_Minotaur[AFK]!anoon@6EAB0EDB:E767AB39:661AF881:IP JOIN :#fuelrats
+Server sent: :Rose_Minotaur[AFK]!anoon@6EAB0EDB:E767AB39:661AF881:IP JOIN :#fuelrats
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!psmodules Fynk
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!psmodules Fynk
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Fynk: To power down your modules, please go to your right panel (default tap the bottom right corner of the touchpad), switch to the MODULES tab (default key R1), select every Module once and deactivate it, EXCEPT LIFE SUPPORT. (You can not deactivate your Power Plant or Canopy and should not deactivate your Life Support!)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Fynk: To power down your modules, please go to your right panel (default tap the bottom right corner of the touchpad), switch to the MODULES tab (default key R1), select every Module once and deactivate it, EXCEPT LIFE SUPPORT. (You can not deactivate your Power Plant or Canopy and should not deactivate your Life Support!)
+:BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :149j 1
+Server sent: :BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :149j 1
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Fynk: can you use reboot-repair option to make it work?
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Fynk: can you use reboot-repair option to make it work?
+:BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :actually nvm
+Server sent: :BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :actually nvm
+:CrunchyBaton955!sid139346@admin.fuelrats.com PRIVMSG #fuelrats :from the functions menu Fynk not the modules menu, it's towards the bottom
+Server sent: :CrunchyBaton955!sid139346@admin.fuelrats.com PRIVMSG #fuelrats :from the functions menu Fynk not the modules menu, it's towards the bottom
+PING :irc.us.fuelrats.com
+:Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com PRIVMSG #fuelrats :Will try now
+Server sent: :Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com PRIVMSG #fuelrats :Will try now
+:Rose_Minotaur[AFK]!anoon@6EAB0EDB:E767AB39:661AF881:IP NICK :Rose_Minotaur[PC]
+Server sent: :Rose_Minotaur[AFK]!anoon@6EAB0EDB:E767AB39:661AF881:IP NICK :Rose_Minotaur[PC]
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Rose_Minotaur[PC]
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Rose_Minotaur[PC]
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Fynk: just make sure you don;t hit thet "self destruct" big red button that sits just below the "repair" big red button
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Fynk: just make sure you don;t hit thet "self destruct" big red button that sits just below the "repair" big red button
+:Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com PRIVMSG #fuelrats :It worked, thank you guys!!
+Server sent: :Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com PRIVMSG #fuelrats :It worked, thank you guys!!
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Fynk: Awesome! please be careful out there and don;t hesitate to call again if you need fuel again
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :Fynk: Awesome! please be careful out there and don;t hesitate to call again if you need fuel again
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!md Fynk repair call
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PRIVMSG #fuelrats :!md Fynk repair call
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Closing case of Fynk (Case #c9066a3d-2ce3-4d71-96c2-60adceeff239) and adding it to the Marked for Deletion List™.
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Closing case of Fynk (Case #c9066a3d-2ce3-4d71-96c2-60adceeff239) and adding it to the Marked for Deletion List™.
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case Fynk got cleared!
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case Fynk got cleared!
+:Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com PRIVMSG #fuelrats :Will do, keep up the good work! o7
+Server sent: :Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com PRIVMSG #fuelrats :Will do, keep up the good work! o7
+:Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+Server sent: :Fynk!4ca9147c@Clk-FA65EE26.socal.res.rr.com QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+PING :irc.us.fuelrats.com
+:Lee_N_Tien!Elias@leentien.rat.fuelrats.com PART #fuelrats :
+Server sent: :Lee_N_Tien!Elias@leentien.rat.fuelrats.com PART #fuelrats :
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+:narmacil[ndd]!IceChat9@narmacil3983.rat.fuelrats.com JOIN :#fuelrats
+Server sent: :narmacil[ndd]!IceChat9@narmacil3983.rat.fuelrats.com JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v narmacil[ndd]
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v narmacil[ndd]
+PING :irc.us.fuelrats.com
+:Vin_Ikra[PS4]!Vin_Ikra@vinikra.rat.fuelrats.com NICK :Vin_Ikra
+Server sent: :Vin_Ikra[PS4]!Vin_Ikra@vinikra.rat.fuelrats.com NICK :Vin_Ikra
+PING :irc.us.fuelrats.com
+:Cider_Barrel!50007a90@Clk-B624CC05.cable.virginm.net QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+Server sent: :Cider_Barrel!50007a90@Clk-B624CC05.cable.virginm.net QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+PING :irc.us.fuelrats.com
+:Lord_Hotwheels[Rosette]!uid239261@lordhotwheels.rat.fuelrats.com QUIT :Quit: Connection closed for inactivity
+Server sent: :Lord_Hotwheels[Rosette]!uid239261@lordhotwheels.rat.fuelrats.com QUIT :Quit: Connection closed for inactivity
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+:SliFox115-PS4!Slifox115-@slifox115.rat.fuelrats.com QUIT :Ping timeout: 180 seconds
+Server sent: :SliFox115-PS4!Slifox115-@slifox115.rat.fuelrats.com QUIT :Ping timeout: 180 seconds
+:Saggy_Tick_inc[XBNeedDrill]!uid245392@Clk-221D3396.charlton.irccloud.com QUIT :Quit: Connection closed for inactivity
+Server sent: :Saggy_Tick_inc[XBNeedDrill]!uid245392@Clk-221D3396.charlton.irccloud.com QUIT :Quit: Connection closed for inactivity
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+:Pbadgers!pbadgers@pbadgers.overseer.fuelrats.com NICK :Pbad
+Server sent: :Pbadgers!pbadgers@pbadgers.overseer.fuelrats.com NICK :Pbad
+:GizmoGomez47[offduty]!sid236711@gizmogomez47.rat.fuelrats.com QUIT :Quit:
+Server sent: :GizmoGomez47[offduty]!sid236711@gizmogomez47.rat.fuelrats.com QUIT :Quit:
+:Pbad!pbadgers@pbadgers.overseer.fuelrats.com NICK :Pbadgers
+Server sent: :Pbad!pbadgers@pbadgers.overseer.fuelrats.com NICK :Pbadgers
+PING :irc.us.fuelrats.com
+:Pbadgers!pbadgers@pbadgers.overseer.fuelrats.com NICK :PassionateBadgers
+Server sent: :Pbadgers!pbadgers@pbadgers.overseer.fuelrats.com NICK :PassionateBadgers
+:PassionateBadgers!pbadgers@pbadgers.overseer.fuelrats.com NICK :Sborz
+Server sent: :PassionateBadgers!pbadgers@pbadgers.overseer.fuelrats.com NICK :Sborz
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+:Le_Sponge[PC]!Le_Sponge@Clk-B4C53677.dynamic.upc.nl JOIN :#fuelrats
+Server sent: :Le_Sponge[PC]!Le_Sponge@Clk-B4C53677.dynamic.upc.nl JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Le_Sponge[PC]
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Le_Sponge[PC]
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+:Wesrin|PC!Wesrin@Clk-1CCAC2BB.res.bhn.net JOIN :#fuelrats
+Server sent: :Wesrin|PC!Wesrin@Clk-1CCAC2BB.res.bhn.net JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Wesrin|PC
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Wesrin|PC
+:Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net JOIN :#fuelrats
+Server sent: :Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: Rawlinsbenny - System: PRAEA EUQ VO-A D38 - Platform: PS4 - O2: OK - Language: English (en-US)
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: Rawlinsbenny - System: PRAEA EUQ VO-A D38 - Platform: PS4 - O2: OK - Language: English (en-US)
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR Rawlinsbenny - System: PRAEA EUQ VO-A D38 (381.20 LY from Sol) - Platform: 12PS4 - O2: OK - Language: English (en-US) (Case #0)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR Rawlinsbenny - System: PRAEA EUQ VO-A D38 (381.20 LY from Sol) - Platform: 12PS4 - O2: OK - Language: English (en-US) (Case #0)
+:BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :9j #0
+Server sent: :BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :9j #0
+PING :irc.us.fuelrats.com
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :hi there Rawlinsbenny Can you confirm wether or not there is a blue o2 timer on your screen?
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :hi there Rawlinsbenny Can you confirm wether or not there is a blue o2 timer on your screen?
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :go BottleBotleBinks[PS4]
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :go BottleBotleBinks[PS4]
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!prep Rawlinsbenny
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!prep Rawlinsbenny
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Rawlinsbenny: Please drop from super cruise, come to a complete stop and disable all modules EXCEPT life support.  If you are currently in a Multicrew session and are the ship owner, please also end your Multicrew session (Comms Panel > 2nd tab > Multicrew Options > Disband Crew).
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Rawlinsbenny: Please drop from super cruise, come to a complete stop and disable all modules EXCEPT life support.  If you are currently in a Multicrew session and are the ship owner, please also end your Multicrew session (Comms Panel > 2nd tab > Multicrew Options > Disband Crew).
+:Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :No timer
+Server sent: :Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :No timer
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :fantastic.
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :fantastic.
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!go 0 BottleBotleBinks[PS4]
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!go 0 BottleBotleBinks[PS4]
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Rawlinsbenny: Please add the following rat(s) to your friends list: BottleBotleBinks
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Rawlinsbenny: Please add the following rat(s) to your friends list: BottleBotleBinks
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!psfr Rawlinsbenny
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!psfr Rawlinsbenny
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Rawlinsbenny: To add the rats to your friends list, press the PS button, open the friends screen from the functions area, search for your rat's name, and add them as a friend.
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Rawlinsbenny: To add the rats to your friends list, press the PS button, open the friends screen from the functions area, search for your rat's name, and add them as a friend.
+PING :irc.us.fuelrats.com
+:BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :rgr omw
+Server sent: :BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :rgr omw
+:BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :fr+
+Server sent: :BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :fr+
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :rgr
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :rgr
+:Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Added
+Server sent: :Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Added
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :great work Rawlinsbenny. now could you add your rat to a wing?
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :great work Rawlinsbenny. now could you add your rat to a wing?
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!pswing Rawlinsbenny
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!pswing Rawlinsbenny
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Rawlinsbenny: To add the rats to your wing hold the SQUARE button and press up on the D-pad, press R1 once, then select the name of a rat and select [Invite to wing]
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Rawlinsbenny: To add the rats to your wing hold the SQUARE button and press up on the D-pad, press R1 once, then select the name of a rat and select [Invite to wing]
+PING :irc.us.fuelrats.com
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :Rawlinsbenny, if at any point you see an emergency o2 timer, log out immediately, and then tell me
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :Rawlinsbenny, if at any point you see an emergency o2 timer, log out immediately, and then tell me
+:Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Field at not showing up in game friend list
+Server sent: :Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Field at not showing up in game friend list
+:Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Fuel rat not showing up in game friend list
+Server sent: :Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Fuel rat not showing up in game friend list
+PING :irc.us.fuelrats.com
+:Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Nm sent
+Server sent: :Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Nm sent
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :are you in open play Rawlinsbenny ?
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :are you in open play Rawlinsbenny ?
+:BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :wr+
+Server sent: :BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :wr+
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :rgr
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :rgr
+:Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Yes just added field at and activated beacon
+Server sent: :Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Yes just added field at and activated beacon
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :great work. If your beacon is up, then we're just waiting on the rat to get into your system!
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :great work. If your beacon is up, then we're just waiting on the rat to get into your system!
+:Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Fuel rat+... sry phone keeps spell checking
+Server sent: :Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Fuel rat+... sry phone keeps spell checking
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :that's all good. Sit tight, help is on the way!
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :that's all good. Sit tight, help is on the way!
+PING :irc.us.fuelrats.com
+:Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Thanks
+Server sent: :Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net PRIVMSG #fuelrats :Thanks
+PING :irc.us.fuelrats.com
+:Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+Server sent: :Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+:Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net JOIN :#fuelrats
+Server sent: :Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: Ender Skarsgard - System: SHARRU SECTOR HM-V B2-2 SYSTEM - Platform: PC - O2: OK - Language: English (en-US) - IRC Nickname: Ender_Skarsgard
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com PRIVMSG #fuelrats :Incoming Client: Ender Skarsgard - System: SHARRU SECTOR HM-V B2-2 SYSTEM - Platform: PC - O2: OK - Language: English (en-US) - IRC Nickname: Ender_Skarsgard
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR Ender Skarsgard - System: SHARRU SECTOR HM-V B2-2 SYSTEM (not in EDDB) - Platform: PC - O2: OK - Language: English (en-US) - IRC Nickname: Ender_Skarsgard (Case #7)
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :RATSIGNAL - CMDR Ender Skarsgard - System: SHARRU SECTOR HM-V B2-2 SYSTEM (not in EDDB) - Platform: PC - O2: OK - Language: English (en-US) - IRC Nickname: Ender_Skarsgard (Case #7)
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :hello Ender_Skarsgard Can you confirm wether or not there is a blue o2 timer on your screen?
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :hello Ender_Skarsgard Can you confirm wether or not there is a blue o2 timer on your screen?
+:Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net JOIN :#fuelrats
+Server sent: :Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net JOIN :#fuelrats
+:Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :im a dumb person haha
+Server sent: :Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :im a dumb person haha
+:Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :naw o2 is good. on fuel still
+Server sent: :Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :naw o2 is good. on fuel still
+:Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+Server sent: :Rawlinsbenny!44e2f71b@Clk-20A11082.lf.br.cox.net QUIT :Quit: FuelRats Web IRC - Provided by KiwiIRC
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!prep Ender_Skarsgard
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!prep Ender_Skarsgard
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard: Please drop from super cruise, come to a complete stop and disable all modules EXCEPT life support.  If you are currently in a Multicrew session and are the ship owner, please also end your Multicrew session (Comms Panel > 2nd tab > Multicrew Options > Disband Crew).
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard: Please drop from super cruise, come to a complete stop and disable all modules EXCEPT life support.  If you are currently in a Multicrew session and are the ship owner, please also end your Multicrew session (Comms Panel > 2nd tab > Multicrew Options > Disband Crew).
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :4j #7 +scooping
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :4j #7 +scooping
+:Kaecyra!kaecyra@kaecyra.overseer.fuelrats.com PRIVMSG #fuelrats :2j #7
+Server sent: :Kaecyra!kaecyra@kaecyra.overseer.fuelrats.com PRIVMSG #fuelrats :2j #7
+:Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :roger
+Server sent: :Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :roger
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!go 7 MHajoha Kaecyra
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!go 7 MHajoha Kaecyra
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard: Please add the following rat(s) to your friends list: MHajoha, Kaecyra
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard: Please add the following rat(s) to your friends list: MHajoha, Kaecyra
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!pcfr Ender_Skarsgard
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!pcfr Ender_Skarsgard
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard: To send a friend request, go to the menu (Hit ESC), click friends and private groups, and click ADD FRIEND
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard: To send a friend request, go to the menu (Hit ESC), click friends and private groups, and click ADD FRIEND
+PING :irc.us.fuelrats.com
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :BottleBotleBinks[PS4], status?
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :BottleBotleBinks[PS4], status?
+:Bruski[PC]!Bruski@bruski.rat.fuelrats.com JOIN :#fuelrats
+Server sent: :Bruski[PC]!Bruski@bruski.rat.fuelrats.com JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Bruski[PC]
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v Bruski[PC]
+:Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :copy. adding friends
+Server sent: :Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :copy. adding friends
+:Kaecyra!kaecyra@kaecyra.overseer.fuelrats.com PRIVMSG #fuelrats :omw
+Server sent: :Kaecyra!kaecyra@kaecyra.overseer.fuelrats.com PRIVMSG #fuelrats :omw
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :great!
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :great!
+:Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :im ok, just forgot a fuel scoop
+Server sent: :Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :im ok, just forgot a fuel scoop
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :Don't worry, help is on the way
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :Don't worry, help is on the way
+:SirToby[PC|PS4][OffDuty]!uid243614@sirtoby.rat.fuelrats.com NICK :SirToby[PC|PS4]
+Server sent: :SirToby[PC|PS4][OffDuty]!uid243614@sirtoby.rat.fuelrats.com NICK :SirToby[PC|PS4]
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :#7 fr+ 3j
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :#7 fr+ 3j
+PING :irc.us.fuelrats.com
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :sysconf
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :sysconf
+:Kaecyra!kaecyra@kaecyra.overseer.fuelrats.com PRIVMSG #fuelrats :fr+ sysconf
+Server sent: :Kaecyra!kaecyra@kaecyra.overseer.fuelrats.com PRIVMSG #fuelrats :fr+ sysconf
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :great work Ender_Skarsgard. Now could you please invite your rats to a wing?
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :great work Ender_Skarsgard. Now could you please invite your rats to a wing?
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!pcwing Ender_Skarsgard
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!pcwing Ender_Skarsgard
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard: To send a wing request, go to the comms panel (Default key 2), hit ESC to get out of the chat box, and move to the second panel (Default key E). Then select the CMDR you want to invite to your wing and select Invite to wing.
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard: To send a wing request, go to the comms panel (Default key 2), hit ESC to get out of the chat box, and move to the second panel (Default key E). Then select the CMDR you want to invite to your wing and select Invite to wing.
+:Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :copy
+Server sent: :Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :copy
+:mib_5gj917!5dd8dd78@Clk-F67F3C66.mibbit.com JOIN :#fuelrats
+Server sent: :mib_5gj917!5dd8dd78@Clk-F67F3C66.mibbit.com JOIN :#fuelrats
+:BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :1j
+Server sent: :BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :1j
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :wr+
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :wr+
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :Fantastic. Finally, please light your wing beacon.
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :Fantastic. Finally, please light your wing beacon.
+:Kaecyra!kaecyra@kaecyra.overseer.fuelrats.com PRIVMSG #fuelrats :wr+ sys+ prep+
+Server sent: :Kaecyra!kaecyra@kaecyra.overseer.fuelrats.com PRIVMSG #fuelrats :wr+ sys+ prep+
+:Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :im in a T9. Name USS Jupter NCC678
+Server sent: :Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :im in a T9. Name USS Jupter NCC678
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!pcbeacon Ender_Skarsgard
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!pcbeacon Ender_Skarsgard
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard: To light your wing beacon, go to the right-side panel (Default key 4), navigate to the functions screen (Default key Q), select BEACON and set it to WING
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard: To light your wing beacon, go to the right-side panel (Default key 4), navigate to the functions screen (Default key Q), select BEACON and set it to WING
+PING :irc.us.fuelrats.com
+:Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :beacon on
+Server sent: :Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :beacon on
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :great. our rats will be there shortly
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :great. our rats will be there shortly
+:Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :<3
+Server sent: :Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :<3
+:Kaecyra!kaecyra@kaecyra.overseer.fuelrats.com PRIVMSG #fuelrats :client in EZ #7
+Server sent: :Kaecyra!kaecyra@kaecyra.overseer.fuelrats.com PRIVMSG #fuelrats :client in EZ #7
+:BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :sys+
+Server sent: :BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :sys+
+:ger143[PC]!ger143@ger143.rat.fuelrats.com JOIN :#fuelrats
+Server sent: :ger143[PC]!ger143@ger143.rat.fuelrats.com JOIN :#fuelrats
+:RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v ger143[PC]
+Server sent: :RatMama[BOT]!RatMama@bot.fuelrats.com MODE #fuelrats +v ger143[PC]
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :rgr
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :rgr
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!sc Ender_Skarsgard
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!sc Ender_Skarsgard
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard: Reactivate your thrusters and Frameshift drive, then Un-target everything and jump to supercruise. Fly away from the star for about 5 light seconds, then drop back down into normal space.
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard: Reactivate your thrusters and Frameshift drive, then Un-target everything and jump to supercruise. Fly away from the star for about 5 light seconds, then drop back down into normal space.
+:Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :roger
+Server sent: :Ender_Skarsgard!4356a962@Clk-F9237B00.dyn.optonline.net PRIVMSG #fuelrats :roger
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :awesome BottleBotleBinks[PS4]
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :awesome BottleBotleBinks[PS4]
+PING :irc.us.fuelrats.com
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :sys+
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :sys+
+:BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :fuel+
+Server sent: :BottleBotleBinks[PS4]!BottleBotl@bottlebotlebinks.rat.fuelrats.com PRIVMSG #fuelrats :fuel+
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!clear 0 BottleBotleBinks[PS4]
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!clear 0 BottleBotleBinks[PS4]
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case Rawlinsbenny got cleared!
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case Rawlinsbenny got cleared!
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :fuel+ #7
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :fuel+ #7
+:Kaecyra!kaecyra@kaecyra.overseer.fuelrats.com PRIVMSG #fuelrats :fuel+ #7
+Server sent: :Kaecyra!kaecyra@kaecyra.overseer.fuelrats.com PRIVMSG #fuelrats :fuel+ #7
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!clear 7 MHajoha
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :!clear 7 MHajoha
+:MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case Ender Skarsgard got cleared!
+Server sent: :MechaSqueak[BOT]!sopel@bot.fuelrats.com PRIVMSG #fuelrats :Case Ender Skarsgard got cleared!
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :MHajoha, Kaecyra, whoever got it first, sort that out in the PW
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :MHajoha, Kaecyra, whoever got it first, sort that out in the PW
+PING :irc.us.fuelrats.com
+:MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :wilco
+Server sent: :MHajoha!MHajoha@mhajoha.rat.fuelrats.com PRIVMSG #fuelrats :wilco
+:Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard, if you stick around a bit, our rats have some useful tips for you!
+Server sent: :Rose_Minotaur[PC]!anoon@roseminotaur.rat.fuelrats.com PRIVMSG #fuelrats :Ender_Skarsgard, if you stick around a bit, our rats have some useful tips for you!
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
+PING :irc.us.fuelrats.com
