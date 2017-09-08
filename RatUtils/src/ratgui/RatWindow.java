@@ -1,5 +1,7 @@
 package ratgui;
 
+import jdk.net.SocketFlow;
+
 import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;
@@ -10,21 +12,40 @@ public class RatWindow extends JFrame {
     private JPanel SystemScroll;
     private JPanel ButtonMaster;
 
+    private JPanel jpanels[] = { new JPanel(), new JPanel(), new JPanel(), new JPanel() };
+
+    public RatWindow() {
+        for ( int i = 0; i < jpanels.length; i++ ) {
+            jpanels[i] = new JPanel();
+        }
+    }
+
+    public void initAPanel(JPanel panel, Color color) {
+        panel.setBackground(color);
+        panel.setSize(250, 350);
+
+        this.add(panel);
+
+
+    }
     public void init() {
 
-        PanelHolder.setLayout(new BorderLayout());
+        this.setSize(1000,900);
 
-        StatusPanel.setBackground(Color.BLACK);
-        StatusPanel.setSize(200,200);
-        StatusPanel.setVisible(true);
+        int counter = 0;
 
-        StatusPanel.add(new Button());
+        for( JPanel jpanel : jpanels ) {
+            counter++;
+            System.out.println(counter);
+            if ( counter % 2 == 0 ) {
+                initAPanel(jpanel, Color.CYAN);
+            } else {
+                initAPanel(jpanel, Color.BLACK);
+            }
+        }
 
-        PanelHolder.add(StatusPanel, BorderLayout.CENTER);
-        PanelHolder.setVisible(true);
+        this.add(new Button("hello world"));
 
-        this.add(PanelHolder);
-        this.setSize(200,200);
         this.setVisible(true);
     }
 
