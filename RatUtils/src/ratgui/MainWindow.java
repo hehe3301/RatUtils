@@ -29,21 +29,32 @@ public class MainWindow extends JFrame {
         MainWindow window = new MainWindow();
         window.init();
 
-        MissionStatusPanel panels[] = {
-                new MissionStatusPanel(),
-                new MissionStatusPanel(),
-                new MissionStatusPanel()
-        };
+        MissionStatusPanel missionStatusPanel = new MissionStatusPanel();
+        missionStatusPanel.init();
+        missionStatusPanel.addMission(new MissionStatusLabel("Erik Benscoter", "m1"));
+        missionStatusPanel.addMission(new MissionStatusLabel("Meeko", "really long mission name"));
+        missionStatusPanel.setPreferredSize(new Dimension(500, window.getHeight()));
+        missionStatusPanel.setBorder(BorderFactory.createEmptyBorder());
+        missionStatusPanel.reRender();
+        window.add(missionStatusPanel);
 
-        for ( MissionStatusPanel ratPanel : panels ) {
-            ratPanel.init();
-            ratPanel.addMission(new MissionStatusLabel("Erik Benscoter", "m1"));
-            ratPanel.addMission(new MissionStatusLabel("Meeko", "m2"));
-            ratPanel.setPreferredSize(new Dimension(200, window.getHeight()));
-            ratPanel.setBorder(BorderFactory.createEmptyBorder());
-            ratPanel.reRender();
-            window.add(ratPanel);
+        RatTextPane textPane = new RatTextPane();
+        textPane.init();
+        textPane.reRender();
+        textPane.setPreferredSize(new Dimension(800, window.getHeight()));
+        window.add(new JScrollPane(textPane));
+        String messages[] = {
+                "hello 1",
+                "hello 2",
+                "hello 3",
+                "hello 4",
+                "hello 5",
+                "hello 6"
+        };
+        for ( String message : messages ) {
+            textPane.addMessage(message);
         }
+
 
         window.render();
 
